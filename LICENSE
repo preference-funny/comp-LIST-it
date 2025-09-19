@@ -18,11 +18,11 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ---
 
-Disney Block List (DIS-Block-List)
+Disney Block List (comp-LIST-it)
 A comprehensive DNS blocklist for Disney-owned properties and services.
 
 This repository contains domain lists specifically targeting The Walt Disney Company
 and its subsidiaries. The lists are designed to block Disney-specific content while
 avoiding generic third-party services to prevent breaking non-Disney websites.
 
-For more information, visit: https://github.com/preference-funny/DIS-Block-List
+For more information, visit: https://github.com/preference-funny/comp-LIST-it

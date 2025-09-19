@@ -177,14 +177,14 @@ These services are used by Disney but also by countless other websites. Blocking
 ## 🤝 Contributing
 
 ### Reporting New Domains
-Found a Disney domain that should be blocked? Please [open an issue](https://github.com/preference-funny/DIS-Block-List/issues) with:
+Found a Disney domain that should be blocked? Please [open an issue](https://github.com/preference-funny/comp-LIST-it/issues) with:
 - The domain name
 - Evidence it's Disney-owned (not just used by Disney)
 - Which Disney property it relates to
 
 ### Reporting False Positives
 If a domain is incorrectly blocked and breaks non-Disney services:
-- [Open an issue](https://github.com/preference-funny/DIS-Block-List/issues) with details
+- [Open an issue](https://github.com/preference-funny/comp-LIST-it/issues) with details
 - Include which service is broken
 - We prioritize fixing false positives quickly
 

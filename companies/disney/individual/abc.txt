@@ -1,6 +1,6 @@
 ! Title: ABC Network Block List
 ! Description: Block list for ABC television network and related properties
-! Homepage: https://github.com/preference-funny/DIS-Block-List
+! Homepage: https://github.com/preference-funny/comp-LIST-it
 ! License: GPL-3.0
 ! Version: 1.0.0
 ! Last Modified: September 19, 2025

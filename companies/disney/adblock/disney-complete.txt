@@ -1,6 +1,6 @@
 ! Title: Disney Complete Block List
 ! Description: Comprehensive blocklist for Disney-owned properties and Disney-specific domains only
-! Homepage: https://github.com/preference-funny/DIS-Block-List
+! Homepage: https://github.com/preference-funny/comp-LIST-it
 ! License: GPL-3.0
 ! Version: 1.0.0
 ! Last Modified: September 19, 2025

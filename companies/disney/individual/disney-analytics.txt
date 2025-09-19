@@ -1,6 +1,6 @@
 ! Title: Disney Analytics & Tracking Block List
 ! Description: Comprehensive block list for Disney analytics, tracking, telemetry, and advertising domains
-! Homepage: https://github.com/preference-funny/DIS-Block-List
+! Homepage: https://github.com/preference-funny/comp-LIST-it
 ! License: GPL-3.0
 ! Version: 1.0.0
 ! Last Modified: September 19, 2025
