@@ -1,12 +1,10 @@
-# Hard-Right Media Networks - Hosts Format
-# Compatible with: System hosts file, Pi-hole hosts format
+# Low-Credibility Media Networks - Hosts File Format
+# Complete blocking list for news outlets with disputed credibility ratings
 # Generated: September 19, 2025
-# Total domains: 300+
 #
-# This list blocks hard-right entertainment content that styles itself as news,
-# including cable networks, digital platforms, radio empires, and streaming services.
-# Format: 0.0.0.0 domain.com (hosts file syntax)
-#
+# This list covers media outlets that have received low credibility ratings
+# from media bias and fact-checking organizations evaluating source reliability,
+# factual accuracy, and editorial standards.
 # Usage:
 # - Linux/macOS: Add to /etc/hosts
 # - Windows: Add to C:\Windows\System32\drivers\etc\hosts

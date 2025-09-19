@@ -1,0 +1,88 @@
+# Murdoch Media Empire - Wildcard Format
+# Complete blocking list for Murdoch family controlled media companies
+# Generated: September 19, 2025
+#
+# This list covers both News Corp and Fox Corporation properties
+# under Murdoch family control, spanning print media, digital news,
+# broadcast television, cable news, streaming, and book publishing.
+#
+# Compatible with: pfSense, OPNsense, Unbound DNS
+# Format: Wildcard domain blocking
+# Usage: Add to your firewall's domain blocking or DNS filtering
+
+*.foxnews.com
+*.foxbusiness.com
+*.fox.com
+*.foxsports.com
+*.tubi.tv
+*.wsj.com
+*.barrons.com
+*.marketwatch.com
+*.dowjones.com
+*.nypost.com
+*.pagesix.com
+*.decider.com
+*.thetimes.co.uk
+*.thesundaytimes.co.uk
+*.thesun.co.uk
+*.theaustralian.com.au
+*.harpercollins.com
+*.harpercollins.co.uk
+*.harpercollins.com.au
+*.skynews.com.au
+*.newscorp.com
+*.foxcorporation.com
+*.education.com
+*.realtor.com
+*.move.com
+*.herald.ie
+*.heraldsun.com.au
+*.adelaidenow.com.au
+*.couriermail.com.au
+*.ntnews.com.au
+*.themercury.com.au
+*.geelongadvertiser.com.au
+*.goldcoastbulletin.com.au
+*.cairnspost.com.au
+*.townsvillebulletin.com.au
+*.foxentertainment.com
+*.foxweather.com
+*.foxsoul.tv
+foxnews.com
+foxbusiness.com
+fox.com
+foxsports.com
+tubi.tv
+wsj.com
+barrons.com
+marketwatch.com
+dowjones.com
+nypost.com
+pagesix.com
+decider.com
+thetimes.co.uk
+thesundaytimes.co.uk
+thesun.co.uk
+theaustralian.com.au
+harpercollins.com
+harpercollins.co.uk
+harpercollins.com.au
+skynews.com.au
+newscorp.com
+foxcorporation.com
+education.com
+realtor.com
+move.com
+herald.ie
+heraldsun.com.au
+adelaidenow.com.au
+couriermail.com.au
+ntnews.com.au
+themercury.com.au
+geelongadvertiser.com.au
+goldcoastbulletin.com.au
+cairnspost.com.au
+townsvillebulletin.com.au
+foxentertainment.com
+foxweather.com
+foxsoul.tv

@@ -1,10 +1,10 @@
-# Hard-Right Media Networks - Master Domain List
+# Low-Credibility Media Networks - Master Domain List
 # Generated: September 19, 2025
 # Total domains: 300+
 #
-# This list covers hard-right entertainment content that styles itself as news,
-# including cable networks, digital platforms, radio empires, and streaming services.
-# These outlets typically blend opinion with news reporting and target conservative audiences.
+# This list covers news outlets with disputed credibility ratings from media bias
+# and fact-checking organizations. Based on assessments evaluating source reliability,
+# factual accuracy, and editorial standards from AllSides, Media Bias/Fact Check, etc.
 #
 # Format: One domain per line (plain text)
 # Usage: Source list for generating blocking formats

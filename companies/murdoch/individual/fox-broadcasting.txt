@@ -1,0 +1,35 @@
+# Fox Broadcasting Company - Complete Domain List
+# Broadcast television network owned by Fox Corporation
+# Generated: September 19, 2025
+#
+# Fox Broadcasting Company is one of the major US broadcast networks
+# owned by Fox Corporation, part of the Murdoch media empire.
+# Provides primetime entertainment, sports, and news programming.
+#
+# Key Programming: NFL, MLB World Series, primetime dramas and comedies,
+# reality shows, animated series, local news affiliates
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN FOX BROADCASTING DOMAINS ===
+fox.com
+www.fox.com
+
+# === FOX TELEVISION DOMAINS ===
+foxtv.com
+foxbroadcasting.com
+fox.tv
+
+# === FOX ZONE AND STREAMING ===
+myfoxzone.com
+foxnow.com
+www.foxnow.com
+
+# === FOX ENTERTAINMENT ===
+foxentertainment.com
+www.foxentertainment.com
+
+# === END OF FOX BROADCASTING LIST ===
+# Total domains: 9
+# This covers Fox Broadcasting Company and related entertainment properties

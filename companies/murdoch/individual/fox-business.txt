@@ -1,0 +1,34 @@
+# Fox Business Network - Complete Domain List
+# Business and financial news network owned by Fox Corporation
+# Generated: September 19, 2025
+#
+# Fox Business Network provides business news, market analysis, and
+# financial programming with a conservative perspective. Part of the
+# Murdoch media empire under Fox Corporation.
+#
+# Key Programming: Mornings with Maria, Varney & Co., Making Money with
+# Charles Payne, Lou Dobbs Tonight, various business shows
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN FOX BUSINESS DOMAINS ===
+foxbusiness.com
+www.foxbusiness.com
+
+# === FOX BUSINESS VIDEO AND STREAMING ===
+video.foxbusiness.com
+foxbusinessgo.com
+
+# === FOX BUSINESS ALTERNATIVE DOMAINS ===
+foxbiz.com
+
+# === FOX BUSINESS MOBILE ===
+foxbusiness.mobi
+
+# === FOX BUSINESS TECHNICAL DOMAINS ===
+fbnstatic.com
+
+# === END OF FOX BUSINESS LIST ===
+# Total domains: 7
+# This covers Fox Business Network and all related digital properties

@@ -1,0 +1,29 @@
+# The Times (UK) - Complete Domain List
+# British newspaper owned by News Corp (Murdoch family)
+# Generated: September 19, 2025
+#
+# The Times is a British national newspaper owned by News Corp,
+# part of the Murdoch media empire since 1981. Known as Britain's
+# newspaper of record with conservative editorial positions.
+#
+# Key Content: UK and international news, politics, business,
+# culture, sports, opinion columns
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN THE TIMES DOMAINS ===
+thetimes.co.uk
+www.thetimes.co.uk
+
+# === LEGACY DOMAINS ===
+timesonline.co.uk
+www.timesonline.co.uk
+
+# === THE SUNDAY TIMES ===
+thesundaytimes.co.uk
+www.thesundaytimes.co.uk
+
+# === END OF THE TIMES LIST ===
+# Total domains: 6
+# This covers The Times and The Sunday Times UK newspapers

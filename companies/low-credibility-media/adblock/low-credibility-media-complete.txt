@@ -1,10 +1,10 @@
-# Hard-Right Media Networks - AdBlock Format
+# Low-Credibility Media Networks - AdBlock Format
 # Compatible with: Pi-hole, AdGuard Home, uBlock Origin
 # Generated: September 19, 2025
 # Total domains: 300+
 # 
-# This list blocks hard-right entertainment content that styles itself as news,
-# including cable networks, digital platforms, radio empires, and streaming services.
+# This list blocks news outlets with disputed credibility ratings from media bias
+# and fact-checking organizations evaluating source reliability and accuracy.
 # Format: ||domain.com^ (AdBlock Plus syntax)
 #
 # Usage:

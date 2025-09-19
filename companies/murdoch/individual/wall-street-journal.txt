@@ -1,0 +1,45 @@
+# Wall Street Journal - Complete Domain List
+# Financial newspaper and digital publication owned by News Corp
+# Generated: September 19, 2025
+#
+# The Wall Street Journal is a major financial newspaper and website
+# owned by News Corp, part of the Murdoch media empire. Known for
+# business coverage with conservative editorial positions.
+#
+# Key Content: Financial markets, business news, opinion editorial,
+# lifestyle content, various specialized sections
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN WSJ DOMAINS ===
+wsj.com
+www.wsj.com
+
+# === WSJ SUBSCRIPTION AND ACCESS ===
+online.wsj.com
+wsj.net
+
+# === WSJ INTERNATIONAL ===
+wsj-eu.com
+
+# === WSJ MOBILE ===
+wsj.mobi
+
+# === RELATED DOW JONES PROPERTIES ===
+dowjones.com
+www.dowjones.com
+dowjoneson.com
+
+# === BARRON'S (WSJ SISTER PUBLICATION) ===
+barrons.com
+www.barrons.com
+barronsmag.com
+
+# === MARKETWATCH (NEWS CORP PROPERTY) ===
+marketwatch.com
+www.marketwatch.com
+
+# === END OF WSJ LIST ===
+# Total domains: 14
+# This covers Wall Street Journal, Barron's, MarketWatch and related properties

@@ -1,0 +1,54 @@
+# Fox Sports - Complete Domain List
+# Sports networks and digital properties owned by Fox Corporation
+# Generated: September 19, 2025
+#
+# Fox Sports operates national and regional sports networks under
+# Fox Corporation, part of the Murdoch media empire. Covers major
+# professional and college sports with extensive digital presence.
+#
+# Key Programming: NFL, MLB, college football, college basketball,
+# soccer, various sports programming and analysis shows
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN FOX SPORTS DOMAINS ===
+foxsports.com
+www.foxsports.com
+
+# === FOX SPORTS NETWORKS ===
+foxsports1.com
+foxsports2.com
+fs1.com
+fs2.com
+
+# === FOX SPORTS STREAMING ===
+foxsportsgo.com
+foxsportsapp.com
+
+# === FOX SPORTS REGIONAL NETWORKS ===
+foxsportssouth.com
+foxsportssouthwest.com
+foxsportsmidwest.com
+foxsportswest.com
+foxsportsnorth.com
+foxsportsohio.com
+foxsportsflorida.com
+foxsportsdetroit.com
+foxsportsarizona.com
+foxsportscarolinas.com
+foxsportscincinnati.com
+foxsportskansascity.com
+foxsportsmemphis.com
+foxsportsnashville.com
+foxsportsnewengland.com
+foxsportsoklahoma.com
+foxsportssandiego.com
+foxsportssun.com
+foxsportstennessee.com
+foxsportsutah.com
+foxsportswisconsin.com
+
+# === END OF FOX SPORTS LIST ===
+# Total domains: 28
+# This covers Fox Sports national and regional networks

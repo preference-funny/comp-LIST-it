@@ -1,10 +1,10 @@
-# Hard-Right Media Networks - Wildcard Format
-# Compatible with: Unbound DNS, BIND DNS, pfSense DNS
+# Low-Credibility Media Networks - Wildcard Format
+# Compatible with: pfSense, OPNsense, Unbound, various firewalls
 # Generated: September 19, 2025
 # Total domains: 300+
 #
-# This list blocks hard-right entertainment content that styles itself as news,
-# including cable networks, digital platforms, radio empires, and streaming services.
+# This list blocks news outlets with disputed credibility ratings from media bias
+# and fact-checking organizations evaluating source reliability and accuracy.
 # Format: *.domain.com (wildcard syntax - blocks all subdomains)
 #
 # Usage:

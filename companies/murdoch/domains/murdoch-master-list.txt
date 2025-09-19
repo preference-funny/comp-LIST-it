@@ -1,0 +1,211 @@
+# Murdoch Media Empire - Master Domain List
+# Complete blocking list for Murdoch family controlled media companies
+# Generated: September 19, 2025
+#
+# This list covers both News Corp and Fox Corporation properties
+# under Murdoch family control, spanning print media, digital news,
+# broadcast television, cable news, streaming, and book publishing.
+#
+# Major Holdings:
+# - News Corp: Wall Street Journal, New York Post, The Times (UK), The Sun, HarperCollins
+# - Fox Corporation: Fox News, Fox Business, Fox Broadcasting, Fox Sports, Tubi
+# - International: Sky News Australia, various local newspapers
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === FOX NEWS CHANNEL ===
+foxnews.com
+www.foxnews.com
+video.foxnews.com
+nation.foxnews.com
+insider.foxnews.com
+radio.foxnews.com
+latino.foxnews.com
+foxnewsgo.com
+foxnewsradio.com
+foxnewsinsider.com
+foxnewslatino.com
+
+# === FOX BUSINESS NETWORK ===
+foxbusiness.com
+www.foxbusiness.com
+video.foxbusiness.com
+foxbusinessgo.com
+foxbiz.com
+
+# === FOX BROADCASTING COMPANY ===
+fox.com
+www.fox.com
+foxtv.com
+foxbroadcasting.com
+fox.tv
+myfoxzone.com
+
+# === FOX SPORTS ===
+foxsports.com
+www.foxsports.com
+foxsports1.com
+foxsports2.com
+fs1.com
+fs2.com
+foxsportsgo.com
+foxsportssouth.com
+foxsportssouthwest.com
+foxsportsmidwest.com
+foxsportswest.com
+foxsportsnorth.com
+foxsportsohio.com
+foxsportsflorida.com
+foxsportsdetroit.com
+
+# === TUBI STREAMING SERVICE ===
+tubi.tv
+www.tubi.tv
+tubitv.com
+link.tubi.tv
+api.tubi.tv
+
+# === WALL STREET JOURNAL ===
+wsj.com
+www.wsj.com
+online.wsj.com
+wsj.net
+barrons.com
+www.barrons.com
+marketwatch.com
+www.marketwatch.com
+dowjones.com
+www.dowjones.com
+
+# === NEW YORK POST ===
+nypost.com
+www.nypost.com
+pagesix.com
+www.pagesix.com
+decider.com
+www.decider.com
+
+# === THE TIMES (UK) ===
+thetimes.co.uk
+www.thetimes.co.uk
+timesonline.co.uk
+www.timesonline.co.uk
+thesundaytimes.co.uk
+www.thesundaytimes.co.uk
+
+# === THE SUN (UK) ===
+thesun.co.uk
+www.thesun.co.uk
+sun.co.uk
+www.sun.co.uk
+thesunday.co.uk
+fabulous.co.uk
+
+# === THE AUSTRALIAN ===
+theaustralian.com.au
+www.theaustralian.com.au
+australian.com.au
+
+# === HARPERCOLLINS PUBLISHERS ===
+harpercollins.com
+www.harpercollins.com
+harpercollins.co.uk
+www.harpercollins.co.uk
+harpercollins.com.au
+www.harpercollins.com.au
+hc.com
+authonomy.com
+
+# === SKY NEWS AUSTRALIA ===
+skynews.com.au
+www.skynews.com.au
+
+# === NEWS CORP CORPORATE ===
+newscorp.com
+www.newscorp.com
+newsroom.fb.com
+
+# === FOX CORPORATION CORPORATE ===
+foxcorporation.com
+www.foxcorporation.com
+
+# === STREAMING AND DIGITAL SERVICES ===
+foxnow.com
+www.foxnow.com
+foxsportsapp.com
+
+# === NEWS CORP EDUCATION ===
+education.com
+www.education.com
+
+# === REAL ESTATE SERVICES ===
+realtor.com
+www.realtor.com
+move.com
+www.move.com
+
+# === INTERNATIONAL PROPERTIES ===
+herald.ie
+www.herald.ie
+heraldsun.com.au
+www.heraldsun.com.au
+adelaidenow.com.au
+www.adelaidenow.com.au
+couriermail.com.au
+www.couriermail.com.au
+ntnews.com.au
+www.ntnews.com.au
+themercury.com.au
+www.themercury.com.au
+geelongadvertiser.com.au
+www.geelongadvertiser.com.au
+goldcoastbulletin.com.au
+www.goldcoastbulletin.com.au
+cairnspost.com.au
+www.cairnspost.com.au
+townsvillebulletin.com.au
+www.townsvillebulletin.com.au
+
+# === FOX ENTERTAINMENT ===
+foxentertainment.com
+www.foxentertainment.com
+
+# === FOX SPORTS REGIONAL NETWORKS ===
+foxsportsarizona.com
+foxsportscarolinas.com
+foxsportscincinnati.com
+foxsportskansascity.com
+foxsportsmemphis.com
+foxsportsnashville.com
+foxsportsnewengland.com
+foxsportsoklahoma.com
+foxsportssandiego.com
+foxsportssun.com
+foxsportstennessee.com
+foxsportsutah.com
+foxsportswisconsin.com
+
+# === ADDITIONAL FOX PROPERTIES ===
+foxweather.com
+www.foxweather.com
+foxsoul.tv
+www.foxsoul.tv
+
+# === MOBILE AND APP DOMAINS ===
+foxnews.mobi
+foxbusiness.mobi
+wsj.mobi
+
+# === CDN AND TECHNICAL DOMAINS ===
+fncstatic.com
+foxnewslatino.com
+fbnstatic.com
+dowjoneson.com
+wsj-eu.com
+barronsmag.com
+
+# === END OF MURDOCH MEDIA EMPIRE LIST ===
+# Total domains: 150+
+# This covers the complete Murdoch family media empire
+# across News Corp and Fox Corporation holdings

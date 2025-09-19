@@ -1,0 +1,33 @@
+# HarperCollins Publishers - Complete Domain List
+# Book publishing company owned by News Corp
+# Generated: September 19, 2025
+#
+# HarperCollins Publishers is one of the largest English-language
+# publishers in the world, owned by News Corp as part of the Murdoch
+# media empire. Publishes books across all genres and markets.
+#
+# Key Content: Fiction, non-fiction, children's books, academic texts,
+# religious books, reference materials across multiple imprints
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN HARPERCOLLINS DOMAINS ===
+harpercollins.com
+www.harpercollins.com
+
+# === HARPERCOLLINS INTERNATIONAL ===
+harpercollins.co.uk
+www.harpercollins.co.uk
+harpercollins.com.au
+www.harpercollins.com.au
+
+# === HARPERCOLLINS ALTERNATIVE DOMAINS ===
+hc.com
+
+# === HARPERCOLLINS DIGITAL SERVICES ===
+authonomy.com
+
+# === END OF HARPERCOLLINS LIST ===
+# Total domains: 8
+# This covers HarperCollins Publishers and international operations

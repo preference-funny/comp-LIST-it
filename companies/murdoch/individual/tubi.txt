@@ -1,0 +1,28 @@
+# Tubi - Complete Domain List
+# Free streaming service owned by Fox Corporation
+# Generated: September 19, 2025
+#
+# Tubi is a free ad-supported streaming television service owned by
+# Fox Corporation, part of the Murdoch media empire. Offers movies
+# and TV shows with advertising support.
+#
+# Key Content: Movies, TV series, original content, various genres
+# across multiple categories and languages
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN TUBI DOMAINS ===
+tubi.tv
+www.tubi.tv
+
+# === TUBI ALTERNATIVE DOMAINS ===
+tubitv.com
+
+# === TUBI TECHNICAL DOMAINS ===
+link.tubi.tv
+api.tubi.tv
+
+# === END OF TUBI LIST ===
+# Total domains: 5
+# This covers Tubi streaming service and related technical domains

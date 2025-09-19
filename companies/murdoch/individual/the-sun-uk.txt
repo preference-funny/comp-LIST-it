@@ -1,0 +1,31 @@
+# The Sun (UK) - Complete Domain List
+# British tabloid newspaper owned by News Corp
+# Generated: September 19, 2025
+#
+# The Sun is a British tabloid newspaper owned by News Corp,
+# part of the Murdoch media empire. Known for sensational headlines,
+# celebrity coverage, and populist conservative positions.
+#
+# Key Content: Celebrity news, sports, politics, entertainment,
+# sensational stories, opinion columns
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN THE SUN DOMAINS ===
+thesun.co.uk
+www.thesun.co.uk
+
+# === ALTERNATIVE DOMAINS ===
+sun.co.uk
+www.sun.co.uk
+
+# === THE SUNDAY SUN ===
+thesunday.co.uk
+
+# === FABULOUS MAGAZINE (SUN SUPPLEMENT) ===
+fabulous.co.uk
+
+# === END OF THE SUN LIST ===
+# Total domains: 6
+# This covers The Sun UK tabloid and related properties

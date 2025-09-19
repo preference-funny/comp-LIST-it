@@ -1,0 +1,44 @@
+# Fox News Channel - Complete Domain List
+# Cable news network owned by Fox Corporation (Murdoch family)
+# Generated: September 19, 2025
+#
+# Fox News Channel is the flagship cable news network of the Murdoch
+# media empire, providing 24/7 conservative-leaning news and opinion
+# programming. Part of Fox Corporation.
+#
+# Key Programming: Tucker Carlson Tonight, Hannity, The Five, Fox & Friends,
+# Special Report with Bret Baier, The Ingraham Angle, various news shows
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN FOX NEWS DOMAINS ===
+foxnews.com
+www.foxnews.com
+
+# === FOX NEWS VIDEO AND STREAMING ===
+video.foxnews.com
+foxnewsgo.com
+nation.foxnews.com
+
+# === FOX NEWS DIGITAL PROPERTIES ===
+insider.foxnews.com
+foxnewsinsider.com
+
+# === FOX NEWS RADIO ===
+radio.foxnews.com
+foxnewsradio.com
+
+# === FOX NEWS LATINO ===
+latino.foxnews.com
+foxnewslatino.com
+
+# === FOX NEWS MOBILE ===
+foxnews.mobi
+
+# === FOX NEWS TECHNICAL DOMAINS ===
+fncstatic.com
+
+# === END OF FOX NEWS LIST ===
+# Total domains: 12
+# This covers Fox News Channel and all related digital properties

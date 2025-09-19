@@ -1,0 +1,29 @@
+# New York Post - Complete Domain List
+# Tabloid newspaper and digital publication owned by News Corp
+# Generated: September 19, 2025
+#
+# The New York Post is a tabloid newspaper and major digital news site
+# owned by News Corp, part of the Murdoch media empire. Known for
+# sensational headlines and conservative editorial positions.
+#
+# Key Content: New York news, politics, sports, entertainment,
+# celebrity gossip, opinion columns
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN NEW YORK POST DOMAINS ===
+nypost.com
+www.nypost.com
+
+# === PAGE SIX (GOSSIP SECTION) ===
+pagesix.com
+www.pagesix.com
+
+# === DECIDER (ENTERTAINMENT SECTION) ===
+decider.com
+www.decider.com
+
+# === END OF NEW YORK POST LIST ===
+# Total domains: 6
+# This covers New York Post and all related digital properties

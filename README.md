@@ -20,7 +20,8 @@ Comprehensive DNS blocklists for **corporate boycotts**. This repository provide
 - **🏰 Disney** - Complete Disney ecosystem including streaming, networks, and subsidiaries
 - **📺 Sinclair Broadcasting** - TV stations, Tennis Channel, and multicast networks
 - **🎯 Nexstar Media Group** - Largest TV station owner, The CW Network, NewsNation, The Hill
-- **📰 Hard-Right Media** - Entertainment content styled as news (Newsmax, OAN, Daily Wire, The Blaze, etc.)
+- **📰 Low-Credibility Media** - News outlets with disputed credibility ratings (Newsmax, OAN, Daily Wire, The Blaze, etc.)
+- **🦊 Murdoch Media Empire** - News Corp and Fox Corporation (Fox News, WSJ, NY Post, The Times UK, etc.)
 
 ### 🔑 Key Features
 
@@ -67,22 +68,39 @@ These blocklists **only include company-owned domains** and avoid generic third-
 │   │       ├── the-hill.txt
 │   │       ├── wgn-america.txt
 │   │       └── major-local-stations.txt
-│   └── 📂 hard-right-media/    # Hard-Right Media Networks
+│   ├── 📂 low-credibility-media/ # Low-Credibility Media Networks
+│   │   ├── 📂 adblock/          # Pi-hole/AdGuard compatible format
+│   │   ├── 📂 hosts/            # Hosts file format
+│   │   ├── 📂 domains/          # Plain domain list
+│   │   ├── 📂 dnsmasq/          # DNSMasq format
+│   │   ├── 📂 wildcard/         # Wildcard format
+│   │   └── 📂 individual/       # Network-specific lists
+│   │       ├── newsmax.txt
+│   │       ├── oan.txt
+│   │       ├── daily-wire.txt
+│   │       ├── the-blaze.txt
+│   │       ├── salem-media.txt
+│   │       ├── infowars.txt
+│   │       ├── breitbart.txt
+│   │       ├── epoch-times.txt
+│   │       └── gateway-pundit.txt
+│   └── 📂 murdoch/             # Murdoch Media Empire
 │       ├── 📂 adblock/          # Pi-hole/AdGuard compatible format
 │       ├── 📂 hosts/            # Hosts file format
 │       ├── 📂 domains/          # Plain domain list
 │       ├── 📂 dnsmasq/          # DNSMasq format
 │       ├── 📂 wildcard/         # Wildcard format
-│       └── 📂 individual/       # Network-specific lists
-│           ├── newsmax.txt
-│           ├── oan.txt
-│           ├── daily-wire.txt
-│           ├── the-blaze.txt
-│           ├── salem-media.txt
-│           ├── infowars.txt
-│           ├── breitbart.txt
-│           ├── epoch-times.txt
-│           └── gateway-pundit.txt
+│       └── 📂 individual/       # Property-specific lists
+│           ├── fox-news.txt
+│           ├── fox-business.txt
+│           ├── wall-street-journal.txt
+│           ├── new-york-post.txt
+│           ├── the-times-uk.txt
+│           ├── the-sun-uk.txt
+│           ├── fox-sports.txt
+│           ├── fox-broadcasting.txt
+│           ├── tubi.txt
+│           └── harpercollins.txt
 └── 📂 .github/workflows/        # Auto-update automation
 ```
 
@@ -123,16 +141,27 @@ Comprehensive lists covering all Nexstar Media Group properties and services.
 | **DNSMasq** | DNSMasq configuration | DNSMasq servers | [companies/nexstar/dnsmasq/nexstar-complete.conf](companies/nexstar/dnsmasq/nexstar-complete.conf) |
 | **Wildcard** | Wildcard domain format | pfSense, OPNsense | [companies/nexstar/wildcard/nexstar-complete.txt](companies/nexstar/wildcard/nexstar-complete.txt) |
 
-### 📰 Hard-Right Media Block Lists
-Comprehensive lists covering hard-right entertainment networks that style themselves as news.
+### 📰 Low-Credibility Media Block Lists
+Comprehensive lists covering news outlets with disputed credibility ratings from media bias assessments.
 
 | Format | Description | Compatible With | Link |
 |--------|-------------|-----------------|------|
-| **AdBlock** | Pi-hole, AdGuard format | Pi-hole, AdGuard Home, uBlock Origin | [companies/hard-right-media/adblock/hard-right-media-complete.txt](companies/hard-right-media/adblock/hard-right-media-complete.txt) |
-| **Hosts** | Traditional hosts format | Linux, Mac, Windows | [companies/hard-right-media/hosts/hard-right-media-complete.txt](companies/hard-right-media/hosts/hard-right-media-complete.txt) |
-| **Domains** | Plain domain list | Custom implementations | [companies/hard-right-media/domains/hard-right-media-master-list.txt](companies/hard-right-media/domains/hard-right-media-master-list.txt) |
-| **DNSMasq** | DNSMasq configuration | DNSMasq servers | [companies/hard-right-media/dnsmasq/hard-right-media-complete.conf](companies/hard-right-media/dnsmasq/hard-right-media-complete.conf) |
-| **Wildcard** | Wildcard domain format | pfSense, OPNsense | [companies/hard-right-media/wildcard/hard-right-media-complete.txt](companies/hard-right-media/wildcard/hard-right-media-complete.txt) |
+| **AdBlock** | Pi-hole, AdGuard format | Pi-hole, AdGuard Home, uBlock Origin | [companies/low-credibility-media/adblock/low-credibility-media-complete.txt](companies/low-credibility-media/adblock/low-credibility-media-complete.txt) |
+| **Hosts** | Traditional hosts format | Linux, Mac, Windows | [companies/low-credibility-media/hosts/low-credibility-media-complete.txt](companies/low-credibility-media/hosts/low-credibility-media-complete.txt) |
+| **Domains** | Plain domain list | Custom implementations | [companies/low-credibility-media/domains/low-credibility-media-master-list.txt](companies/low-credibility-media/domains/low-credibility-media-master-list.txt) |
+| **DNSMasq** | DNSMasq configuration | DNSMasq servers | [companies/low-credibility-media/dnsmasq/low-credibility-media-complete.conf](companies/low-credibility-media/dnsmasq/low-credibility-media-complete.conf) |
+| **Wildcard** | Wildcard domain format | pfSense, OPNsense | [companies/low-credibility-media/wildcard/low-credibility-media-complete.txt](companies/low-credibility-media/wildcard/low-credibility-media-complete.txt) |
+
+### 🦊 Murdoch Media Empire Block Lists
+Comprehensive lists covering News Corp and Fox Corporation properties under Murdoch family control.
+
+| Format | Description | Compatible With | Link |
+|--------|-------------|-----------------|------|
+| **AdBlock** | Pi-hole, AdGuard format | Pi-hole, AdGuard Home, uBlock Origin | [companies/murdoch/adblock/murdoch-complete.txt](companies/murdoch/adblock/murdoch-complete.txt) |
+| **Hosts** | Traditional hosts format | Linux, Mac, Windows | [companies/murdoch/hosts/murdoch-complete.txt](companies/murdoch/hosts/murdoch-complete.txt) |
+| **Domains** | Plain domain list | Custom implementations | [companies/murdoch/domains/murdoch-master-list.txt](companies/murdoch/domains/murdoch-master-list.txt) |
+| **DNSMasq** | DNSMasq configuration | DNSMasq servers | [companies/murdoch/dnsmasq/murdoch-complete.conf](companies/murdoch/dnsmasq/murdoch-complete.conf) |
+| **Wildcard** | Wildcard domain format | pfSense, OPNsense | [companies/murdoch/wildcard/murdoch-complete.txt](companies/murdoch/wildcard/murdoch-complete.txt) |
 
 ### 🎯 Individual Property Lists
 
@@ -167,18 +196,32 @@ Comprehensive lists covering hard-right entertainment networks that style themse
 | **WGN America** | Cable network and WGN Chicago | [companies/nexstar/individual/wgn-america.txt](companies/nexstar/individual/wgn-america.txt) |
 | **Major Local Stations** | Top market TV stations | [companies/nexstar/individual/major-local-stations.txt](companies/nexstar/individual/major-local-stations.txt) |
 
-#### Hard-Right Media Networks
+#### Low-Credibility Media Networks
 | Service | Description | Link |
 |---------|-------------|------|
-| **Newsmax** | Cable news network | [companies/hard-right-media/individual/newsmax.txt](companies/hard-right-media/individual/newsmax.txt) |
-| **One America News (OAN)** | Cable news network | [companies/hard-right-media/individual/oan.txt](companies/hard-right-media/individual/oan.txt) |
-| **Daily Wire** | Media company and podcast network | [companies/hard-right-media/individual/daily-wire.txt](companies/hard-right-media/individual/daily-wire.txt) |
-| **The Blaze** | Media company and streaming network | [companies/hard-right-media/individual/the-blaze.txt](companies/hard-right-media/individual/the-blaze.txt) |
-| **Salem Media Group** | Radio and digital media empire | [companies/hard-right-media/individual/salem-media.txt](companies/hard-right-media/individual/salem-media.txt) |
-| **InfoWars** | Conspiracy theory and supplement network | [companies/hard-right-media/individual/infowars.txt](companies/hard-right-media/individual/infowars.txt) |
-| **Breitbart News** | Political news and opinion website | [companies/hard-right-media/individual/breitbart.txt](companies/hard-right-media/individual/breitbart.txt) |
-| **The Epoch Times** | Multi-language news organization | [companies/hard-right-media/individual/epoch-times.txt](companies/hard-right-media/individual/epoch-times.txt) |
-| **The Gateway Pundit** | Political blog and news website | [companies/hard-right-media/individual/gateway-pundit.txt](companies/hard-right-media/individual/gateway-pundit.txt) |
+| **Newsmax** | Cable news network | [companies/low-credibility-media/individual/newsmax.txt](companies/low-credibility-media/individual/newsmax.txt) |
+| **One America News (OAN)** | Cable news network | [companies/low-credibility-media/individual/oan.txt](companies/low-credibility-media/individual/oan.txt) |
+| **Daily Wire** | Media company and podcast network | [companies/low-credibility-media/individual/daily-wire.txt](companies/low-credibility-media/individual/daily-wire.txt) |
+| **The Blaze** | Media company and streaming network | [companies/low-credibility-media/individual/the-blaze.txt](companies/low-credibility-media/individual/the-blaze.txt) |
+| **Salem Media Group** | Radio and digital media empire | [companies/low-credibility-media/individual/salem-media.txt](companies/low-credibility-media/individual/salem-media.txt) |
+| **InfoWars** | Conspiracy theory and supplement network | [companies/low-credibility-media/individual/infowars.txt](companies/low-credibility-media/individual/infowars.txt) |
+| **Breitbart News** | Political news and opinion website | [companies/low-credibility-media/individual/breitbart.txt](companies/low-credibility-media/individual/breitbart.txt) |
+| **The Epoch Times** | Multi-language news organization | [companies/low-credibility-media/individual/epoch-times.txt](companies/low-credibility-media/individual/epoch-times.txt) |
+| **The Gateway Pundit** | Political blog and news website | [companies/low-credibility-media/individual/gateway-pundit.txt](companies/low-credibility-media/individual/gateway-pundit.txt) |
+
+#### Murdoch Media Empire Properties
+| Service | Description | Link |
+|---------|-------------|------|
+| **Fox News Channel** | Cable news network | [companies/murdoch/individual/fox-news.txt](companies/murdoch/individual/fox-news.txt) |
+| **Fox Business Network** | Business and financial news network | [companies/murdoch/individual/fox-business.txt](companies/murdoch/individual/fox-business.txt) |
+| **Wall Street Journal** | Financial newspaper (includes Barron's, MarketWatch) | [companies/murdoch/individual/wall-street-journal.txt](companies/murdoch/individual/wall-street-journal.txt) |
+| **New York Post** | Tabloid newspaper (includes Page Six) | [companies/murdoch/individual/new-york-post.txt](companies/murdoch/individual/new-york-post.txt) |
+| **The Times (UK)** | British newspaper (includes Sunday Times) | [companies/murdoch/individual/the-times-uk.txt](companies/murdoch/individual/the-times-uk.txt) |
+| **The Sun (UK)** | British tabloid newspaper | [companies/murdoch/individual/the-sun-uk.txt](companies/murdoch/individual/the-sun-uk.txt) |
+| **Fox Sports** | Sports networks and digital properties | [companies/murdoch/individual/fox-sports.txt](companies/murdoch/individual/fox-sports.txt) |
+| **Fox Broadcasting Company** | Broadcast television network | [companies/murdoch/individual/fox-broadcasting.txt](companies/murdoch/individual/fox-broadcasting.txt) |
+| **Tubi** | Free streaming service | [companies/murdoch/individual/tubi.txt](companies/murdoch/individual/tubi.txt) |
+| **HarperCollins Publishers** | Book publishing company | [companies/murdoch/individual/harpercollins.txt](companies/murdoch/individual/harpercollins.txt) |
 
 ---
 
@@ -241,13 +284,21 @@ systemctl restart dnsmasq
 - **WGN Properties**: WGN America cable network and WGN Chicago
 - **Local TV Stations**: 200+ local television stations in major US markets
 
-### 📰 Hard-Right Media Networks
+### 📰 Low-Credibility Media Networks
 - **Cable Networks**: Newsmax, One America News (OAN)
 - **Digital Media Companies**: Daily Wire, The Blaze, Salem Media Group
-- **Conspiracy/Alternative Media**: InfoWars, Breitbart News, The Gateway Pundit
+- **Alternative Media Outlets**: InfoWars, Breitbart News, The Gateway Pundit
 - **International Operations**: The Epoch Times multi-language organization
 - **Podcast Networks**: Multiple shows across Daily Wire, The Blaze, and Salem platforms
-- **Total Domains**: 300+ domains covering major hard-right entertainment networks
+- **Total Domains**: 300+ domains covering news outlets with disputed credibility ratings
+
+### 🦊 Murdoch Media Empire
+- **News Corp Holdings**: Wall Street Journal, New York Post, The Times (UK), The Sun, HarperCollins Publishers
+- **Fox Corporation Holdings**: Fox News Channel, Fox Business Network, Fox Broadcasting Company, Fox Sports, Tubi
+- **International Properties**: Sky News Australia, The Australian, various local newspapers
+- **Digital Platforms**: Streaming services, mobile apps, subscription services
+- **Publishing Empire**: HarperCollins with multiple imprints and international operations
+- **Total Domains**: 150+ domains covering the complete Murdoch family media empire
 
 ---
 
