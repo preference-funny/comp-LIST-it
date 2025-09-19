@@ -235,18 +235,6 @@ If a domain is incorrectly blocked and breaks unrelated services:
 
 ---
 
-## � Future Companies
-
-This repository is designed to expand beyond Disney to include other companies for boycott purposes. Planned additions:
-
-- 🔵 **Meta/Facebook** - Social media platforms and services
-- 🔴 **YouTube/Google** - Video platform and advertising network  
-- 🛒 **Amazon** - E-commerce and cloud services
-- 🟦 **Twitter/X** - Social media platform
-- 📱 **TikTok/ByteDance** - Social media and content platform
-
-Each company will have its own directory under `companies/` with the same format structure as Disney.
-
 ## �🔄 Updates
 
 This repository is updated regularly to include:

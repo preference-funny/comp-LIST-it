@@ -11,34 +11,15 @@ This directory contains company-specific blocklists for various corporations ava
 - **Domains**: 100+ Disney-specific domains
 - **Individual Lists**: 7 property-specific lists available
 
-## Planned Additions
+## Planned Additions:
+- ** Sinclair Broadcast Group**
+ - **Directory**: `sinclair/`
+ - **Status**: 🚧 In Progress
+    - **Includes**: All Sinclair-owned TV stations and properties
+    - **Domains**: 50+ Sinclair-specific domains
+    - **Individual Lists**: 5 property-specific lists planned
 
 The following companies are planned for future addition:
-
-### 🔵 Meta/Facebook
-- **Status**: 📅 Planned
-- **Would Include**: Facebook, Instagram, WhatsApp, Threads, Oculus/Meta Quest
-- **Rationale**: Social media platforms and data collection
-
-### 🔴 YouTube/Google
-- **Status**: 📅 Planned  
-- **Would Include**: YouTube, Google Ads, DoubleClick, Google Analytics (company-specific)
-- **Rationale**: Video platform monopoly and advertising dominance
-
-### 🛒 Amazon
-- **Status**: 📅 Planned
-- **Would Include**: Amazon.com, AWS (select services), Prime Video, Twitch
-- **Rationale**: E-commerce monopoly and cloud service dominance
-
-### 🟦 Twitter/X
-- **Status**: 📅 Planned
-- **Would Include**: Twitter.com, X.com, TweetDeck, Twitter APIs
-- **Rationale**: Social media platform and content moderation policies
-
-### 📱 TikTok/ByteDance
-- **Status**: 📅 Planned
-- **Would Include**: TikTok, ByteDance services, Musical.ly legacy domains
-- **Rationale**: Social media platform and data privacy concerns
 
 ## Adding New Companies
 
