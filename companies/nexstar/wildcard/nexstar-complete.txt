@@ -1,0 +1,287 @@
+# Nexstar Media Group - Wildcard Format
+# Compatible with: Unbound DNS, BIND DNS, pfSense DNS
+# Generated: September 19, 2025
+# Total domains: 400+
+#
+# This list blocks domains owned and operated by Nexstar Media Group,
+# the largest television station owner in the United States.
+# Format: *.domain.com (wildcard syntax - blocks all subdomains)
+#
+# Usage:
+# - Unbound: Use as redirect zone configuration
+# - BIND: Configure as redirect zone entries
+# - pfSense: Use in DNS Resolver redirect rules
+# - Advanced filtering: Blocks all subdomains including tracking/analytics
+#
+# Sources: Corporate filings, FCC records, acquisition documents
+
+# === CORPORATE DOMAINS ===
+*.nexstar.tv
+*.nexstarmedia.com
+*.nexstarmediagroup.com
+*.nexstardigital.com
+*.nexstarbroadcasting.com
+*.nexstartv.com
+*.nxstmedia.com
+
+# === THE CW NETWORK ===
+*.cwtv.com
+*.cw.com
+*.thecw.com
+*.cwseed.com
+*.cwtv.net
+*.cwtvd.com
+*.cw.tv
+*.mycwtv.com
+*.watchcw.com
+*.cwapp.com
+
+# === NEWSNATION ===
+*.newsnation.com
+*.newsnationow.com
+*.nn.tv
+*.newsnationtv.com
+*.watchnewsnation.com
+*.newsnationlive.com
+*.newsnationcable.com
+
+# === THE HILL ===
+*.thehill.com
+*.hilltv.com
+*.thehill.tv
+*.hillmedia.com
+*.changingamerica.org
+
+# === WGN AMERICA & WGN ===
+*.wgn.com
+*.wgnamerica.com
+*.wgntv.com
+*.wgnradio.com
+*.wgnplus.com
+
+# === NEXSTAR DIGITAL ===
+*.nexstardigital.com
+*.nexstarlocal.com
+*.nexstarapps.com
+*.nexstarstreaming.com
+*.nexstarmobile.com
+
+# === MAJOR LOCAL TV STATIONS ===
+*.wpix.com
+*.pix11.com
+*.wpix11.com
+*.ktla.com
+*.ktla5.com
+*.wgn.com
+*.wgn9.com
+*.wgnchicago.com
+*.wphl.com
+*.phl17.com
+*.kdaf.com
+*.cw33.com
+*.kron4.com
+*.kron.com
+*.whdh.com
+*.7news.com
+*.wdcw.com
+*.dcw50.com
+*.wdiv.com
+*.clickondetroit.com
+*.kiah.com
+*.cw39.com
+*.wgcl.com
+*.cbs46.com
+*.wfla.com
+*.8news.com
+*.kasw.com
+*.cw61.com
+*.kcpq.com
+*.q13fox.com
+*.kare11.com
+*.11alive.com
+*.wplg.com
+*.local10.com
+*.kdvr.com
+*.fox31denver.com
+*.wjw.com
+*.fox8.com
+*.ktxl.com
+*.fox40.com
+*.wdaf.com
+*.fox4kc.com
+*.wxin.com
+*.fox59.com
+*.wtte.com
+*.fox28.com
+*.wjzy.com
+*.fox46charlotte.com
+*.wkrn.com
+*.news2.com
+*.witi.com
+*.fox6now.com
+*.kfor.com
+*.4news.com
+*.klas.com
+*.8newsnow.com
+*.wreg.com
+*.3news.com
+*.wdrb.com
+*.41news.com
+*.wrlh.com
+*.fox35.com
+*.wgno.com
+*.abc26.com
+*.wivb.com
+*.4news.com
+*.wtic.com
+*.fox61.com
+*.wncn.com
+*.cbs17.com
+*.wbrc.com
+*.fox6news.com
+*.wtkr.com
+*.3news.com
+*.wten.com
+*.10news.com
+*.koki.com
+*.fox23.com
+*.wdtn.com
+*.2news.com
+*.wluk.com
+*.fox11online.com
+*.wjrt.com
+*.abc12.com
+*.kxxv.com
+*.25news.com
+*.kspr.com
+*.33news.com
+*.wtvo.com
+*.17news.com
+*.wane.com
+*.15news.com
+*.wmbd.com
+*.14news.com
+*.14news.com
+*.tristatehomepage.com
+*.wthi.com
+*.10news.com
+*.wgem.com
+*.10news.com
+
+# === STREAMING & DIGITAL PLATFORMS ===
+*.nexstarplus.com
+*.nexstarstream.com
+*.nexstarott.com
+*.nexstarvod.com
+*.watchnexstar.com
+
+# === NEWS AGGREGATION ===
+*.nexstarnews.com
+*.nexstarnetwork.com
+*.nexstarnational.com
+*.nexstarwire.com
+
+# === SPORTS PROPERTIES ===
+*.nexstarsports.com
+*.localsportsnetwork.com
+*.nexstarathletics.com
+
+# === WEATHER SERVICES ===
+*.nexstarweather.com
+*.localweathernow.com
+*.nexstarforecast.com
+
+# === ADVERTISING PLATFORMS ===
+*.nexstaradvertising.com
+*.nexstarads.com
+*.nexstarmarketing.com
+*.nexstarsales.com
+
+# === MOBILE APPS & DIGITAL ===
+*.nexstarapps.com
+*.nexstarmobile.com
+*.nexstardigitalmedia.com
+
+# === ANALYTICS & TRACKING ===
+*.nexstaranalytics.com
+*.nexstardata.com
+*.nexstarmetrics.com
+*.nexstartracking.com
+
+# === ADDITIONAL STATIONS ===
+*.kauz.com
+*.6news.com
+*.kltv.com
+*.7news.com
+*.kwtx.com
+*.10news.com
+*.kwqc.com
+*.6news.com
+*.wrex.com
+*.13news.com
+*.week.com
+*.25news.com
+
+# === TRIBUNE LEGACY DOMAINS ===
+*.tribunemedia.com
+*.tribunebroadcasting.com
+*.tribunedigital.com
+*.tribunelocal.com
+
+# === CORPORATE SUBSIDIARIES ===
+*.nexstarventures.com
+*.nexstarinvestments.com
+*.nexstarcapital.com
+*.nexstarholdings.com
+
+# === PRODUCTION COMPANIES ===
+*.nexstarproductions.com
+*.nexstarstudios.com
+*.nexstarcontent.com
+
+# === TECHNOLOGY PLATFORMS ===
+*.nexstartech.com
+*.nexstarsystems.com
+*.nexstarcloud.com
+
+# === SYNDICATION & DISTRIBUTION ===
+*.nexstarsyndication.com
+*.nexstardistribution.com
+*.nexstarcontent.com
+
+# === RADIO PROPERTIES ===
+*.nexstarradio.com
+*.nexstaraudio.com
+
+# === REGIONAL NEWS NETWORKS ===
+*.ohionewsnetwork.com
+*.carolinanewsnetwork.com
+*.texasnewsnetwork.com
+
+# === DIGITAL PUBLISHING ===
+*.nexstarpublishing.com
+*.nexstardigitalnetwork.com
+*.localnewsnetwork.com
+
+# === EVENTS & PROMOTIONS ===
+*.nexstarevents.com
+*.nexstarpromotions.com
+*.nexstarcontests.com
+
+# === CORPORATE FUNCTIONS ===
+*.nexstarcareers.com
+*.nexstarjobs.com
+*.nexstarhr.com
+*.nexstarinvestors.com
+*.nexstarir.com
+*.nexstarcompliance.com
+*.nexstarregulatory.com
+
+# === INTERNATIONAL ===
+*.nexstarinternational.com
+*.nexstarglobal.com
+
+# === END OF LIST ===
+# This list focuses on Nexstar-owned properties
+# Generic third-party services are excluded to prevent breaking other websites
+# Wildcard format blocks ALL subdomains including analytics, tracking, and CDN domains

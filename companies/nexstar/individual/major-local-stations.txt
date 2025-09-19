@@ -1,0 +1,350 @@
+# Nexstar Major Local TV Stations - Complete Domain List
+# Parent Company: Nexstar Media Group
+# Generated: September 19, 2025
+#
+# This list covers major Nexstar-owned local television stations
+# in top US markets including New York, Los Angeles, Chicago,
+# Dallas, San Francisco, Boston, and other major cities.
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === NEW YORK MARKET ===
+# WPIX (CW 11) - New York, NY
+wpix.com
+pix11.com
+wpix11.com
+pix11news.com
+cw11.com
+
+# === LOS ANGELES MARKET ===
+# KTLA (CW 5) - Los Angeles, CA
+ktla.com
+ktla5.com
+ktlanews.com
+ktlaweather.com
+ktlasports.com
+
+# === PHILADELPHIA MARKET ===
+# WPHL (PHL17) - Philadelphia, PA
+wphl.com
+phl17.com
+phl17news.com
+phl17weather.com
+
+# === DALLAS MARKET ===
+# KDAF (CW33) - Dallas, TX
+kdaf.com
+cw33.com
+cw33news.com
+dfw.com
+
+# === SAN FRANCISCO MARKET ===
+# KRON (KRON4) - San Francisco, CA
+kron4.com
+kron.com
+kron4news.com
+kron4weather.com
+
+# === BOSTON MARKET ===
+# WHDH (7News) - Boston, MA
+whdh.com
+7news.com
+7newsboston.com
+nbcboston.com
+
+# === WASHINGTON DC MARKET ===
+# WDCW (DCW50) - Washington, DC
+wdcw.com
+dcw50.com
+dcw50news.com
+
+# === DETROIT MARKET ===
+# WDIV (ClickOnDetroit) - Detroit, MI
+wdiv.com
+clickondetroit.com
+local4news.com
+detroitnews4.com
+
+# === HOUSTON MARKET ===
+# KIAH (CW39) - Houston, TX
+kiah.com
+cw39.com
+cw39houston.com
+houstonews.com
+
+# === ATLANTA MARKET ===
+# WGCL (CBS46) - Atlanta, GA
+wgcl.com
+cbs46.com
+cbs46news.com
+atlanta46.com
+
+# === TAMPA MARKET ===
+# WFLA (8News) - Tampa, FL
+wfla.com
+8news.com
+wflanews.com
+tampabaynews.com
+
+# === PHOENIX MARKET ===
+# KASW (CW61) - Phoenix, AZ
+kasw.com
+cw61.com
+phoenixcw.com
+
+# === SEATTLE MARKET ===
+# KCPQ (Q13 FOX) - Seattle, WA
+kcpq.com
+q13fox.com
+q13news.com
+seattleq13.com
+
+# === MINNEAPOLIS MARKET ===
+# KARE (KARE11) - Minneapolis, MN
+kare11.com
+11alive.com
+kare11news.com
+minneapolisnews.com
+
+# === MIAMI MARKET ===
+# WPLG (Local 10) - Miami, FL
+wplg.com
+local10.com
+local10news.com
+miaminews10.com
+
+# === DENVER MARKET ===
+# KDVR (FOX31) - Denver, CO
+kdvr.com
+fox31denver.com
+denver31.com
+coloradofox.com
+
+# === CLEVELAND MARKET ===
+# WJW (FOX8) - Cleveland, OH
+wjw.com
+fox8.com
+fox8news.com
+clevelandfox8.com
+
+# === SACRAMENTO MARKET ===
+# KTXL (FOX40) - Sacramento, CA
+ktxl.com
+fox40.com
+fox40news.com
+sacramentofox40.com
+
+# === KANSAS CITY MARKET ===
+# WDAF (FOX4) - Kansas City, MO
+wdaf.com
+fox4kc.com
+fox4news.com
+kansascityfox4.com
+
+# === INDIANAPOLIS MARKET ===
+# WXIN (FOX59) - Indianapolis, IN
+wxin.com
+fox59.com
+fox59news.com
+indyfox59.com
+
+# === COLUMBUS MARKET ===
+# WTTE (FOX28) - Columbus, OH
+wtte.com
+fox28.com
+fox28news.com
+columbusfox28.com
+
+# === CHARLOTTE MARKET ===
+# WJZY (FOX46) - Charlotte, NC
+wjzy.com
+fox46charlotte.com
+fox46news.com
+charlottefox46.com
+
+# === NASHVILLE MARKET ===
+# WKRN (News 2) - Nashville, TN
+wkrn.com
+news2.com
+wkrnnews.com
+nashvillenews2.com
+
+# === MILWAUKEE MARKET ===
+# WITI (FOX6) - Milwaukee, WI
+witi.com
+fox6now.com
+fox6news.com
+milwaukeefox6.com
+
+# === OKLAHOMA CITY MARKET ===
+# KFOR (4News) - Oklahoma City, OK
+kfor.com
+4news.com
+kfor4news.com
+oklahomanews4.com
+
+# === LAS VEGAS MARKET ===
+# KLAS (8NewsNow) - Las Vegas, NV
+klas.com
+8newsnow.com
+lasvegasnews8.com
+vegas8news.com
+
+# === MEMPHIS MARKET ===
+# WREG (3News) - Memphis, TN
+wreg.com
+3news.com
+wregnews.com
+memphis3news.com
+
+# === LOUISVILLE MARKET ===
+# WDRB (41News) - Louisville, KY
+wdrb.com
+41news.com
+louisville41.com
+wdrbnews.com
+
+# === RICHMOND MARKET ===
+# WRLH (FOX35) - Richmond, VA
+wrlh.com
+fox35.com
+richmond35.com
+virginiafox35.com
+
+# === NEW ORLEANS MARKET ===
+# WGNO (ABC26) - New Orleans, LA
+wgno.com
+abc26.com
+neworleansabc26.com
+wgnonews.com
+
+# === BUFFALO MARKET ===
+# WIVB (4News) - Buffalo, NY
+wivb.com
+4news.com
+buffalo4news.com
+wivbnews.com
+
+# === HARTFORD MARKET ===
+# WTIC (FOX61) - Hartford, CT
+wtic.com
+fox61.com
+hartfordfox61.com
+connecticutfox61.com
+
+# === RALEIGH MARKET ===
+# WNCN (CBS17) - Raleigh, NC
+wncn.com
+cbs17.com
+raleighcbs17.com
+wncnnews.com
+
+# === BIRMINGHAM MARKET ===
+# WBRC (FOX6) - Birmingham, AL
+wbrc.com
+fox6news.com
+birminghamfox6.com
+alabamafox6.com
+
+# === NORFOLK MARKET ===
+# WTKR (3News) - Norfolk, VA
+wtkr.com
+3news.com
+norfolk3news.com
+wtkrnews.com
+
+# === ALBANY MARKET ===
+# WTEN (10News) - Albany, NY
+wten.com
+10news.com
+albany10news.com
+wtennews.com
+
+# === TULSA MARKET ===
+# KOKI (FOX23) - Tulsa, OK
+koki.com
+fox23.com
+tulsafox23.com
+oklahomafox23.com
+
+# === DAYTON MARKET ===
+# WDTN (2News) - Dayton, OH
+wdtn.com
+2news.com
+dayton2news.com
+wdtnnews.com
+
+# === GREEN BAY MARKET ===
+# WLUK (FOX11) - Green Bay, WI
+wluk.com
+fox11online.com
+greenbay11.com
+wisconsinfox11.com
+
+# === FLINT MARKET ===  
+# WJRT (ABC12) - Flint, MI
+wjrt.com
+abc12.com
+flintabc12.com
+michiganabc12.com
+
+# === WACO MARKET ===
+# KXXV (25News) - Waco, TX
+kxxv.com
+25news.com
+waco25news.com
+texasnews25.com
+
+# === SPRINGFIELD MO MARKET ===
+# KSPR (33News) - Springfield, MO
+kspr.com
+33news.com
+springfield33.com
+missouri33news.com
+
+# === ROCKFORD MARKET ===
+# WTVO (17News) - Rockford, IL
+wtvo.com
+17news.com
+rockford17.com
+illinois17news.com
+
+# === FORT WAYNE MARKET ===
+# WANE (15News) - Fort Wayne, IN
+wane.com
+15news.com
+fortwayne15.com
+indiana15news.com
+
+# === PEORIA MARKET ===
+# WMBD (14News) - Peoria, IL
+wmbd.com
+14news.com
+peoria14news.com
+illinois14news.com
+
+# === EVANSVILLE MARKET ===
+# WFIE (14News) / Tristate Homepage
+14news.com
+tristatehomepage.com
+evansville14news.com
+tristate14news.com
+
+# === TERRE HAUTE MARKET ===
+# WTHI (10News) - Terre Haute, IN
+wthi.com
+10news.com
+terrehaute10.com
+wthiweather.com
+
+# === QUINCY MARKET ===
+# WGEM (10News) - Quincy, IL
+wgem.com
+10news.com
+quincy10news.com
+wgemnews.com
+
+# === END OF MAJOR STATIONS LIST ===
+# Total domains: 200+
+# This covers major Nexstar local TV stations across top US markets

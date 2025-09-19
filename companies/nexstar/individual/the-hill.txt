@@ -1,0 +1,125 @@
+# The Hill - Complete Domain List
+# Parent Company: Nexstar Media Group (acquired 2021)
+# Generated: September 19, 2025
+#
+# The Hill is a political news website and publication covering Congress,
+# the White House, campaigns, lobbying, and policy. Nexstar acquired
+# The Hill in 2021 to expand their digital news presence.
+#
+# Key Properties: TheHill.com, Hill.TV, Changing America,
+# The Hill on NewsNation, Rising with Krystal and Saagar
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN HILL DOMAINS ===
+thehill.com
+hilltv.com
+thehill.tv
+
+# === HILL BRANDING VARIANTS ===
+hillmedia.com
+hillnews.com
+hillpolitics.com
+hillreports.com
+
+# === CHANGING AMERICA (HILL SUBSIDIARY) ===
+changingamerica.org
+changingamerica.com
+changingamericanews.com
+
+# === HILL STREAMING & DIGITAL ===
+hillstream.com
+hillplus.com
+hillapp.com
+hillmobile.com
+hillott.com
+
+# === HILL SHOWS & PROGRAMMING ===
+risingshow.com
+hillrising.com
+risingwithkrystal.com
+krystalball.com
+saagarhow.com
+
+# === HILL POLITICS & COVERAGE ===
+hillpolitics.com
+hillcongress.com
+hillwhitehouse.com
+hillcampaigns.com
+hilllobbying.com
+
+# === HILL BUSINESS & POLICY ===
+hillbusiness.com
+hillpolicy.com
+hillregulation.com
+hilltrade.com
+
+# === HILL EVENTS & CONFERENCES ===
+hillevents.com
+hillsummit.com
+hillconference.com
+hilltalks.com
+
+# === HILL DIGITAL PLATFORMS ===
+hilldigital.com
+hillonline.com
+hillweb.com
+hilltv.com
+
+# === HILL NEWSLETTERS & SUBSCRIPTIONS ===
+hillnewsletter.com
+hillsubscriptions.com
+hillpremium.com
+hillpro.com
+
+# === HILL SOCIAL & COMMUNITY ===
+hillsocial.com
+hillcommunity.com
+hillforum.com
+hillreaders.com
+
+# === HILL ADVERTISING & MARKETING ===
+hillads.com
+hilladvertising.com
+hillmarketing.com
+hillsponsorships.com
+
+# === HILL CAREERS & JOBS ===
+hillcareers.com
+hilljobs.com
+hillhiring.com
+
+# === HILL TECHNOLOGY & PLATFORMS ===
+hilltech.com
+hillplatform.com
+hillsystem.com
+hillcloud.com
+
+# === HILL ANALYTICS & DATA ===
+hillanalytics.com
+hilldata.com
+hillmetrics.com
+hilltracking.com
+hillinsights.com
+
+# === HILL INTERNATIONAL ===
+hillinternational.com
+hillglobal.com
+hillworldwide.com
+
+# === HILL MULTIMEDIA & CONTENT ===
+hillvideo.com
+hillpodcast.com
+hillaudio.com
+hillmultimedia.com
+
+# === HILL SPECIAL PROJECTS ===
+hillspecial.com
+hillprojects.com
+hillinitiatives.com
+hillcampaigns.com
+
+# === END OF THE HILL LIST ===
+# Total domains: 60+
+# This covers The Hill's digital presence under Nexstar ownership

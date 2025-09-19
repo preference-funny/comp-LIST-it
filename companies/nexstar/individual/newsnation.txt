@@ -1,0 +1,108 @@
+# NewsNation - Complete Domain List
+# Parent Company: Nexstar Media Group
+# Generated: September 19, 2025
+#
+# NewsNation is a primetime cable news network launched by Nexstar in 2020,
+# positioned as a centrist alternative to CNN, Fox News, and MSNBC.
+# Based in Chicago with bureaus nationwide.
+#
+# Key Programming: NewsNation Prime, Morning in America, Rush Hour,
+# The Hill on NewsNation, Banfield, Cuomo, Dan Abrams Live
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN NEWSNATION DOMAINS ===
+newsnation.com
+newsnationow.com
+nn.tv
+
+# === NEWSNATION BRANDING VARIANTS ===
+newsnationtv.com
+watchnewsnation.com
+newsnationlive.com
+newsnationcable.com
+newsnationnetwork.com
+
+# === NEWSNATION STREAMING & DIGITAL ===
+newsnationapp.com
+newsnationstream.com
+newsnationplus.com
+newsnationott.com
+newsnationvod.com
+
+# === NEWSNATION NEWS & CONTENT ===
+newsnationews.com
+newsnationcontent.com
+newsnationprogramming.com
+newsnationreports.com
+
+# === NEWSNATION MOBILE & APPS ===
+newsnationmobile.com
+newsnationapps.com
+newsnationlive.com
+
+# === NEWSNATION SHOWS & PROGRAMMING ===
+morninginamerica.com
+rushhournews.com
+banfieldshow.com
+cuomonewsnation.com
+danabramslive.com
+
+# === NEWSNATION REGIONAL & LOCAL ===
+newsnationlocal.com
+newsnationregional.com
+newsnationcities.com
+
+# === NEWSNATION DIGITAL PLATFORMS ===
+newsnationdigital.com
+newsnationonline.com
+newsnationweb.com
+
+# === NEWSNATION SOCIAL & COMMUNITY ===
+newsnationsocial.com
+newsnationcommunity.com
+newsnationforum.com
+
+# === NEWSNATION ADVERTISING & SALES ===
+newsnationads.com
+newsnationadvertising.com
+newsnationmarketing.com
+newsnationsales.com
+
+# === NEWSNATION BUSINESS & CORPORATE ===
+newsnationbusiness.com
+newsnationcorporate.com
+newsnationenterprise.com
+
+# === NEWSNATION TECHNOLOGY & PLATFORMS ===
+newsnationtech.com
+newsnationplatform.com
+newsnationsystem.com
+newsnationcloud.com
+
+# === NEWSNATION ANALYTICS & DATA ===
+newsnationanalytics.com
+newsnationdata.com
+newsnationmetrics.com
+newsnationtracking.com
+
+# === NEWSNATION INTERNATIONAL ===
+newsnationinternational.com
+newsnationglobal.com
+newsnationworldwide.com
+
+# === NEWSNATION CAREERS & HR ===
+newsnationcareers.com
+newsnationjobs.com
+newsnationhr.com
+
+# === NEWSNATION EVENTS & SPECIAL COVERAGE ===
+newsnationevents.com
+newsnationspecial.com
+newsnationlive.com
+newsnationbreaking.com
+
+# === END OF NEWSNATION LIST ===
+# Total domains: 50+
+# This covers NewsNation's digital presence under Nexstar ownership

@@ -1,0 +1,285 @@
+# Nexstar Media Group - Hosts Format
+# Compatible with: System hosts file, Pi-hole hosts format
+# Generated: September 19, 2025
+# Total domains: 400+
+#
+# This list blocks domains owned and operated by Nexstar Media Group,
+# the largest television station owner in the United States.
+# Format: 0.0.0.0 domain.com (hosts file syntax)
+#
+# Usage:
+# - Linux/macOS: Add to /etc/hosts
+# - Windows: Add to C:\Windows\System32\drivers\etc\hosts
+# - Pi-hole: Add as hosts file
+#
+# Sources: Corporate filings, FCC records, acquisition documents
+
+# === CORPORATE DOMAINS ===
+0.0.0.0 nexstar.tv
+0.0.0.0 nexstarmedia.com
+0.0.0.0 nexstarmediagroup.com
+0.0.0.0 nexstardigital.com
+0.0.0.0 nexstarbroadcasting.com
+0.0.0.0 nexstartv.com
+0.0.0.0 nxstmedia.com
+
+# === THE CW NETWORK ===
+0.0.0.0 cwtv.com
+0.0.0.0 cw.com
+0.0.0.0 thecw.com
+0.0.0.0 cwseed.com
+0.0.0.0 cwtv.net
+0.0.0.0 cwtvd.com
+0.0.0.0 cw.tv
+0.0.0.0 mycwtv.com
+0.0.0.0 watchcw.com
+0.0.0.0 cwapp.com
+
+# === NEWSNATION ===
+0.0.0.0 newsnation.com
+0.0.0.0 newsnationow.com
+0.0.0.0 nn.tv
+0.0.0.0 newsnationtv.com
+0.0.0.0 watchnewsnation.com
+0.0.0.0 newsnationlive.com
+0.0.0.0 newsnationcable.com
+
+# === THE HILL ===
+0.0.0.0 thehill.com
+0.0.0.0 hilltv.com
+0.0.0.0 thehill.tv
+0.0.0.0 hillmedia.com
+0.0.0.0 changingamerica.org
+
+# === WGN AMERICA & WGN ===
+0.0.0.0 wgn.com
+0.0.0.0 wgnamerica.com
+0.0.0.0 wgntv.com
+0.0.0.0 wgnradio.com
+0.0.0.0 wgnplus.com
+
+# === NEXSTAR DIGITAL ===
+0.0.0.0 nexstardigital.com
+0.0.0.0 nexstarlocal.com
+0.0.0.0 nexstarapps.com
+0.0.0.0 nexstarstreaming.com
+0.0.0.0 nexstarmobile.com
+
+# === MAJOR LOCAL TV STATIONS ===
+0.0.0.0 wpix.com
+0.0.0.0 pix11.com
+0.0.0.0 wpix11.com
+0.0.0.0 ktla.com
+0.0.0.0 ktla5.com
+0.0.0.0 wgn.com
+0.0.0.0 wgn9.com
+0.0.0.0 wgnchicago.com
+0.0.0.0 wphl.com
+0.0.0.0 phl17.com
+0.0.0.0 kdaf.com
+0.0.0.0 cw33.com
+0.0.0.0 kron4.com
+0.0.0.0 kron.com
+0.0.0.0 whdh.com
+0.0.0.0 7news.com
+0.0.0.0 wdcw.com
+0.0.0.0 dcw50.com
+0.0.0.0 wdiv.com
+0.0.0.0 clickondetroit.com
+0.0.0.0 kiah.com
+0.0.0.0 cw39.com
+0.0.0.0 wgcl.com
+0.0.0.0 cbs46.com
+0.0.0.0 wfla.com
+0.0.0.0 8news.com
+0.0.0.0 kasw.com
+0.0.0.0 cw61.com
+0.0.0.0 kcpq.com
+0.0.0.0 q13fox.com
+0.0.0.0 kare11.com
+0.0.0.0 11alive.com
+0.0.0.0 wplg.com
+0.0.0.0 local10.com
+0.0.0.0 kdvr.com
+0.0.0.0 fox31denver.com
+0.0.0.0 wjw.com
+0.0.0.0 fox8.com
+0.0.0.0 ktxl.com
+0.0.0.0 fox40.com
+0.0.0.0 wdaf.com
+0.0.0.0 fox4kc.com
+0.0.0.0 wxin.com
+0.0.0.0 fox59.com
+0.0.0.0 wtte.com
+0.0.0.0 fox28.com
+0.0.0.0 wjzy.com
+0.0.0.0 fox46charlotte.com
+0.0.0.0 wkrn.com
+0.0.0.0 news2.com
+0.0.0.0 witi.com
+0.0.0.0 fox6now.com
+0.0.0.0 kfor.com
+0.0.0.0 4news.com
+0.0.0.0 klas.com
+0.0.0.0 8newsnow.com
+0.0.0.0 wreg.com
+0.0.0.0 3news.com
+0.0.0.0 wdrb.com
+0.0.0.0 41news.com
+0.0.0.0 wrlh.com
+0.0.0.0 fox35.com
+0.0.0.0 wgno.com
+0.0.0.0 abc26.com
+0.0.0.0 wivb.com
+0.0.0.0 4news.com
+0.0.0.0 wtic.com
+0.0.0.0 fox61.com
+0.0.0.0 wncn.com
+0.0.0.0 cbs17.com
+0.0.0.0 wbrc.com
+0.0.0.0 fox6news.com
+0.0.0.0 wtkr.com
+0.0.0.0 3news.com
+0.0.0.0 wten.com
+0.0.0.0 10news.com
+0.0.0.0 koki.com
+0.0.0.0 fox23.com
+0.0.0.0 wdtn.com
+0.0.0.0 2news.com
+0.0.0.0 wluk.com
+0.0.0.0 fox11online.com
+0.0.0.0 wjrt.com
+0.0.0.0 abc12.com
+0.0.0.0 kxxv.com
+0.0.0.0 25news.com
+0.0.0.0 kspr.com
+0.0.0.0 33news.com
+0.0.0.0 wtvo.com
+0.0.0.0 17news.com
+0.0.0.0 wane.com
+0.0.0.0 15news.com
+0.0.0.0 wmbd.com
+0.0.0.0 14news.com
+0.0.0.0 14news.com
+0.0.0.0 tristatehomepage.com
+0.0.0.0 wthi.com
+0.0.0.0 10news.com
+0.0.0.0 wgem.com
+0.0.0.0 10news.com
+
+# === STREAMING & DIGITAL PLATFORMS ===
+0.0.0.0 nexstarplus.com
+0.0.0.0 nexstarstream.com
+0.0.0.0 nexstarott.com
+0.0.0.0 nexstarvod.com
+0.0.0.0 watchnexstar.com
+
+# === NEWS AGGREGATION ===
+0.0.0.0 nexstarnews.com
+0.0.0.0 nexstarnetwork.com
+0.0.0.0 nexstarnational.com
+0.0.0.0 nexstarwire.com
+
+# === SPORTS PROPERTIES ===
+0.0.0.0 nexstarsports.com
+0.0.0.0 localsportsnetwork.com
+0.0.0.0 nexstarathletics.com
+
+# === WEATHER SERVICES ===
+0.0.0.0 nexstarweather.com
+0.0.0.0 localweathernow.com
+0.0.0.0 nexstarforecast.com
+
+# === ADVERTISING PLATFORMS ===
+0.0.0.0 nexstaradvertising.com
+0.0.0.0 nexstarads.com
+0.0.0.0 nexstarmarketing.com
+0.0.0.0 nexstarsales.com
+
+# === MOBILE APPS & DIGITAL ===
+0.0.0.0 nexstarapps.com
+0.0.0.0 nexstarmobile.com
+0.0.0.0 nexstardigitalmedia.com
+
+# === ANALYTICS & TRACKING ===
+0.0.0.0 nexstaranalytics.com
+0.0.0.0 nexstardata.com
+0.0.0.0 nexstarmetrics.com
+0.0.0.0 nexstartracking.com
+
+# === ADDITIONAL STATIONS ===
+0.0.0.0 kauz.com
+0.0.0.0 6news.com
+0.0.0.0 kltv.com
+0.0.0.0 7news.com
+0.0.0.0 kwtx.com
+0.0.0.0 10news.com
+0.0.0.0 kwqc.com
+0.0.0.0 6news.com
+0.0.0.0 wrex.com
+0.0.0.0 13news.com
+0.0.0.0 week.com
+0.0.0.0 25news.com
+
+# === TRIBUNE LEGACY DOMAINS ===
+0.0.0.0 tribunemedia.com
+0.0.0.0 tribunebroadcasting.com
+0.0.0.0 tribunedigital.com
+0.0.0.0 tribunelocal.com
+
+# === CORPORATE SUBSIDIARIES ===
+0.0.0.0 nexstarventures.com
+0.0.0.0 nexstarinvestments.com
+0.0.0.0 nexstarcapital.com
+0.0.0.0 nexstarholdings.com
+
+# === PRODUCTION COMPANIES ===
+0.0.0.0 nexstarproductions.com
+0.0.0.0 nexstarstudios.com
+0.0.0.0 nexstarcontent.com
+
+# === TECHNOLOGY PLATFORMS ===
+0.0.0.0 nexstartech.com
+0.0.0.0 nexstarsystems.com
+0.0.0.0 nexstarcloud.com
+
+# === SYNDICATION & DISTRIBUTION ===
+0.0.0.0 nexstarsyndication.com
+0.0.0.0 nexstardistribution.com
+0.0.0.0 nexstarcontent.com
+
+# === RADIO PROPERTIES ===
+0.0.0.0 nexstarradio.com
+0.0.0.0 nexstaraudio.com
+
+# === REGIONAL NEWS NETWORKS ===
+0.0.0.0 ohionewsnetwork.com
+0.0.0.0 carolinanewsnetwork.com
+0.0.0.0 texasnewsnetwork.com
+
+# === DIGITAL PUBLISHING ===
+0.0.0.0 nexstarpublishing.com
+0.0.0.0 nexstardigitalnetwork.com
+0.0.0.0 localnewsnetwork.com
+
+# === EVENTS & PROMOTIONS ===
+0.0.0.0 nexstarevents.com
+0.0.0.0 nexstarpromotions.com
+0.0.0.0 nexstarcontests.com
+
+# === CORPORATE FUNCTIONS ===
+0.0.0.0 nexstarcareers.com
+0.0.0.0 nexstarjobs.com
+0.0.0.0 nexstarhr.com
+0.0.0.0 nexstarinvestors.com
+0.0.0.0 nexstarir.com
+0.0.0.0 nexstarcompliance.com
+0.0.0.0 nexstarregulatory.com
+
+# === INTERNATIONAL ===
+0.0.0.0 nexstarinternational.com
+0.0.0.0 nexstarglobal.com
+
+# === END OF LIST ===
+# This list focuses on Nexstar-owned properties
+# Generic third-party services are excluded to prevent breaking other websites

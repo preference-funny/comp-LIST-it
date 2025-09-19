@@ -22,6 +22,7 @@ Comprehensive DNS blocklists for **corporate boycotts**. This repository provide
 ### 🏢 Currently Available Companies
 - **🏰 Disney** - Complete Disney ecosystem including streaming, networks, and subsidiaries
 - **📺 Sinclair Broadcasting** - TV stations, Tennis Channel, and multicast networks
+- **🎯 Nexstar Media Group** - Largest TV station owner, The CW Network, NewsNation, The Hill
 
 ### 🔑 Key Features
 
@@ -49,25 +50,25 @@ These blocklists **only include company-owned domains** and avoid generic third-
 │   │   ├── 📂 dnsmasq/          # DNSMasq format
 │   │   ├── 📂 wildcard/         # Wildcard format
 │   │   └── 📂 individual/       # Property-specific lists
-│   └── 📂 sinclair/         # Sinclair Broadcasting Group
+│   ├── 📂 sinclair/         # Sinclair Broadcasting Group
+│   │   ├── 📂 adblock/          # Pi-hole/AdGuard compatible format
+│   │   ├── 📂 hosts/            # Hosts file format
+│   │   ├── 📂 domains/          # Plain domain list
+│   │   ├── 📂 dnsmasq/          # DNSMasq format
+│   │   ├── 📂 wildcard/         # Wildcard format
+│   │   └── 📂 individual/       # Property-specific lists
+│   └── 📂 nexstar/          # Nexstar Media Group
 │       ├── 📂 adblock/          # Pi-hole/AdGuard compatible format
-│       │   └── disney-complete.txt
 │       ├── 📂 hosts/            # Hosts file format
-│       │   └── disney-complete.txt
 │       ├── 📂 domains/          # Plain domain list
-│       │   └── disney-master-list.txt
 │       ├── 📂 dnsmasq/          # DNSMasq format
-│       │   └── disney-complete.conf
 │       ├── 📂 wildcard/         # Wildcard format
-│       │   └── disney-complete.txt
 │       └── 📂 individual/       # Property-specific lists
-│           ├── disney-plus.txt
-│           ├── espn.txt
-│           ├── abc.txt
-│           ├── marvel.txt
-│           ├── star-wars.txt
-│           ├── pixar.txt
-│           └── hulu.txt
+│           ├── cw-network.txt
+│           ├── newsnation.txt
+│           ├── the-hill.txt
+│           ├── wgn-america.txt
+│           └── major-local-stations.txt
 └── 📂 .github/workflows/        # Auto-update automation
 ```
 
@@ -97,6 +98,17 @@ Comprehensive lists covering all Sinclair Broadcasting Group properties and serv
 | **DNSMasq** | DNSMasq configuration | DNSMasq servers | [companies/sinclair/dnsmasq/sinclair-complete.conf](companies/sinclair/dnsmasq/sinclair-complete.conf) |
 | **Wildcard** | Wildcard domain format | pfSense, OPNsense | [companies/sinclair/wildcard/sinclair-complete.txt](companies/sinclair/wildcard/sinclair-complete.txt) |
 
+### 🎯 Nexstar Media Group Block Lists
+Comprehensive lists covering all Nexstar Media Group properties and services.
+
+| Format | Description | Compatible With | Link |
+|--------|-------------|-----------------|------|
+| **AdBlock** | Pi-hole, AdGuard format | Pi-hole, AdGuard Home, uBlock Origin | [companies/nexstar/adblock/nexstar-complete.txt](companies/nexstar/adblock/nexstar-complete.txt) |
+| **Hosts** | Traditional hosts format | Linux, Mac, Windows | [companies/nexstar/hosts/nexstar-complete.txt](companies/nexstar/hosts/nexstar-complete.txt) |
+| **Domains** | Plain domain list | Custom implementations | [companies/nexstar/domains/nexstar-master-list.txt](companies/nexstar/domains/nexstar-master-list.txt) |
+| **DNSMasq** | DNSMasq configuration | DNSMasq servers | [companies/nexstar/dnsmasq/nexstar-complete.conf](companies/nexstar/dnsmasq/nexstar-complete.conf) |
+| **Wildcard** | Wildcard domain format | pfSense, OPNsense | [companies/nexstar/wildcard/nexstar-complete.txt](companies/nexstar/wildcard/nexstar-complete.txt) |
+
 ### 🎯 Individual Property Lists
 
 #### Disney Properties
@@ -120,6 +132,15 @@ Comprehensive lists covering all Sinclair Broadcasting Group properties and serv
 | **The Nest** | Multicast network | [companies/sinclair/individual/nest.txt](companies/sinclair/individual/nest.txt) |
 | **Ring of Honor** | Wrestling promotion | [companies/sinclair/individual/ring-of-honor.txt](companies/sinclair/individual/ring-of-honor.txt) |
 | **Stadium** | Sports network | [companies/sinclair/individual/stadium.txt](companies/sinclair/individual/stadium.txt) |
+
+#### Nexstar Media Group Properties
+| Service | Description | Link |
+|---------|-------------|------|
+| **The CW Network** | Broadcast TV network | [companies/nexstar/individual/cw-network.txt](companies/nexstar/individual/cw-network.txt) |
+| **NewsNation** | Cable news network | [companies/nexstar/individual/newsnation.txt](companies/nexstar/individual/newsnation.txt) |
+| **The Hill** | Political news publication | [companies/nexstar/individual/the-hill.txt](companies/nexstar/individual/the-hill.txt) |
+| **WGN America** | Cable network and WGN Chicago | [companies/nexstar/individual/wgn-america.txt](companies/nexstar/individual/wgn-america.txt) |
+| **Major Local Stations** | Top market TV stations | [companies/nexstar/individual/major-local-stations.txt](companies/nexstar/individual/major-local-stations.txt) |
 
 ---
 
@@ -174,6 +195,14 @@ systemctl restart dnsmasq
 - **Local TV Stations**: 350+ local television station websites across the US
 - **Streaming & Digital**: Ring of Honor Wrestling, Stadium sports network
 
+### 🎯 Nexstar Media Group
+- **Corporate Properties**: Nexstar corporate domains and digital platforms
+- **The CW Network**: Broadcast television network (75% ownership)
+- **NewsNation**: Cable news network and streaming service
+- **The Hill**: Political news website and Hill.TV
+- **WGN Properties**: WGN America cable network and WGN Chicago
+- **Local TV Stations**: 200+ local television stations in major US markets
+
 ---
 
 ## 🎯 What's NOT Included
@@ -193,9 +222,9 @@ These services are used by target companies but also by countless other websites
 
 ## 📊 Statistics
 
-- **Total companies**: 2 (Disney, Sinclair Broadcasting)
-- **Total domains**: 450+ company-specific domains
-- **Individual property lists**: 14+ specialized lists
+- **Total companies**: 3 (Disney, Sinclair Broadcasting, Nexstar Media Group)
+- **Total domains**: 850+ company-specific domains
+- **Individual property lists**: 19+ specialized lists
 - **Supported formats**: 5 different formats
 - **Compatible DNS solutions**: 10+ different platforms
 

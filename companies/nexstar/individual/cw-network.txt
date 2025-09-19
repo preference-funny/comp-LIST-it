@@ -1,0 +1,91 @@
+# The CW Network - Complete Domain List
+# Parent Company: Nexstar Media Group (75% ownership)
+# Generated: September 19, 2025
+#
+# The CW Network is a broadcast television network that airs primetime programming
+# including scripted series, reality shows, and sports content. Nexstar acquired
+# 75% ownership of The CW in 2022 from ViacomCBS and Warner Bros.
+#
+# Major Programming: Superman & Lois, The Flash, Riverdale, All American,
+# Walker, Penn & Teller: Fool Us, Masters of Illusion
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN CW DOMAINS ===
+cwtv.com
+cw.com
+thecw.com
+
+# === CW STREAMING & DIGITAL ===
+cwseed.com
+cwtv.net
+cwtvd.com
+cw.tv
+mycwtv.com
+watchcw.com
+cwapp.com
+
+# === CW MOBILE & APPS ===
+cwmobile.com
+cwapps.com
+cwstream.com
+cwlive.com
+
+# === CW CONTENT & PROGRAMMING ===
+cwcontent.com
+cwprogramming.com
+cwshows.com
+cwseries.com
+
+# === CW NEWS & INFORMATION ===
+cwnews.com
+cwpress.com
+cwmedia.com
+
+# === CW SPORTS & LIVE EVENTS ===
+cwsports.com
+cwlive.com
+cwevents.com
+
+# === CW ADVERTISING & MARKETING ===
+cwads.com
+cwadvertising.com
+cwmarketing.com
+cwsales.com
+
+# === CW DIGITAL PLATFORMS ===
+cwdigital.com
+cwonline.com
+cwweb.com
+
+# === CW SOCIAL & COMMUNITY ===
+cwsocial.com
+cwcommunity.com
+cwfan.com
+cwfans.com
+
+# === CW INTERNATIONAL ===
+cwinternational.com
+cwglobal.com
+cwworldwide.com
+
+# === CW PRODUCTION & STUDIOS ===
+cwproductions.com
+cwstudios.com
+cwproduction.com
+
+# === CW TECHNOLOGY & PLATFORM ===
+cwtech.com
+cwplatform.com
+cwsystem.com
+
+# === CW ANALYTICS & DATA ===
+cwanalytics.com
+cwdata.com
+cwmetrics.com
+cwtracking.com
+
+# === END OF CW NETWORK LIST ===
+# Total domains: 50+
+# This covers The CW Network's digital presence under Nexstar ownership

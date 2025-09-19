@@ -1,0 +1,138 @@
+# WGN America & WGN Properties - Complete Domain List
+# Parent Company: Nexstar Media Group (acquired 2019)
+# Generated: September 19, 2025
+#
+# WGN America is a cable network and WGN is a Chicago-based TV/radio station
+# owned by Nexstar. WGN America features syndicated programming, original series,
+# and sports. WGN Chicago is a major independent station.
+#
+# Key Programming: WGN Morning News, WGN Evening News, Cubs Baseball,
+# Bulls Basketball, NewsNation programming
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN WGN DOMAINS ===
+wgn.com
+wgnamerica.com
+wgntv.com
+wgnradio.com
+
+# === WGN STREAMING & DIGITAL ===
+wgnplus.com
+wgnstream.com
+wgnapp.com
+wgnmobile.com
+wgnlive.com
+
+# === WGN CHICAGO LOCAL ===
+wgn9.com
+wgnchicago.com
+wgnlocal.com
+wgnchicagoland.com
+
+# === WGN NEWS & PROGRAMMING ===
+wgnnews.com
+wgnmorning.com
+wgnevening.com
+wgnweather.com
+wgntraffic.com
+
+# === WGN SPORTS COVERAGE ===
+wgnsports.com
+wgncubs.com
+wgnbulls.com
+wgnwhitesox.com
+wgnblackhawks.com
+
+# === WGN RADIO PROPERTIES ===
+wgnradio.com
+wgnam.com
+wgn720.com
+wgnpodcasts.com
+wgnaudio.com
+
+# === WGN DIGITAL PLATFORMS ===
+wgndigital.com
+wgnonline.com
+wgnweb.com
+wgninteractive.com
+
+# === WGN ADVERTISING & SALES ===
+wgnads.com
+wgnadvertising.com
+wgnmarketing.com
+wgnsales.com
+wgncommercial.com
+
+# === WGN EVENTS & COMMUNITY ===
+wgnevents.com
+wgncommunity.com
+wgnfestival.com
+wgnchicagofest.com
+
+# === WGN WEATHER SERVICES ===
+wgnweather.com
+wgnforecast.com
+wgnstorm.com
+wgnweatherwatch.com
+
+# === WGN TRAFFIC & TRANSPORTATION ===
+wgntraffic.com
+wgncommute.com
+wgntransit.com
+wgnroads.com
+
+# === WGN TECHNOLOGY & PLATFORMS ===
+wgntech.com
+wgnplatform.com
+wgnsystem.com
+wgncloud.com
+
+# === WGN SOCIAL & COMMUNITY ===
+wgnsocial.com
+wgncommunity.com
+wgnforum.com
+wgnfans.com
+
+# === WGN CAREERS & JOBS ===
+wgncareers.com
+wgnjobs.com
+wgnhiring.com
+wgnhr.com
+
+# === WGN ANALYTICS & DATA ===
+wgnanalytics.com
+wgndata.com
+wgnmetrics.com
+wgntracking.com
+
+# === WGN INTERNATIONAL ===
+wgninternational.com
+wgnglobal.com
+wgnworldwide.com
+
+# === WGN SPECIAL PROJECTS ===
+wgnspecial.com
+wgnprojects.com
+wgninitiatives.com
+
+# === WGN MULTIMEDIA CONTENT ===
+wgnvideo.com
+wgnpodcast.com
+wgnaudio.com
+wgnmultimedia.com
+
+# === WGN SYNDICATION ===
+wgnsyndication.com
+wgndistribution.com
+wgncontent.com
+
+# === WGN LEGACY DOMAINS ===
+wgntribune.com
+tribunewgn.com
+wgntribunemed.com
+
+# === END OF WGN LIST ===
+# Total domains: 60+
+# This covers WGN America and WGN Chicago properties under Nexstar ownership
