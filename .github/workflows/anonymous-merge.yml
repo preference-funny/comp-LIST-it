@@ -1,0 +1,39 @@
+name: Anonymous Merge Bot
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+jobs:
+  anonymous-merge:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Configure anonymous git identity
+      run: |
+        git config --global user.name "ListBot Maintainer"
+        git config --global user.email "listbot@comp-list-it.noreply.github.com"
+    
+    - name: Rewrite last commit with anonymous identity
+      run: |
+        # Get the last commit hash
+        LAST_COMMIT=$(git rev-parse HEAD)
+        
+        # Create a new commit with the same changes but anonymous author
+        git reset --soft HEAD~1
+        git commit --author="ListBot Maintainer <listbot@comp-list-it.noreply.github.com>" \
+                   --message="$(git log --format=%B -n 1 $LAST_COMMIT)"
+    
+    - name: Force push anonymized commit
+      run: |
+        git push --force origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
