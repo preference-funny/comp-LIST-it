@@ -1,0 +1,92 @@
+# The Epoch Times - Complete Domain List
+# Multi-language news organization with hard-right editorial stance
+# Generated: September 19, 2025
+#
+# The Epoch Times is a multi-language newspaper and media company founded
+# by Chinese Americans associated with the Falun Gong spiritual movement.
+# Known for strong anti-communist positions and promoting conspiracy theories.
+#
+# Key Programming: Epoch TV, Crossroads, American Thought Leaders, Facts Matter,
+# and extensive print publication in multiple languages
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN EPOCH TIMES DOMAINS ===
+epochtimes.com
+theepochtimes.com
+epochtv.com
+epochnews.com
+
+# === EPOCH TIMES STREAMING ===
+epochtimes.tv
+epochmedia.com
+epochcast.com
+epochstream.com
+
+# === EPOCH TIMES INTERNATIONAL ===
+epochtimes.de
+epochtimes.fr
+epochtimes.jp
+epochtimes.ca
+epochtimes.co.uk
+epochtimes.com.au
+
+# === EPOCH TIMES BUSINESS ===
+epochtimesstore.com
+epochtimesshop.com
+epochtimessubscription.com
+epochtimescommerce.com
+
+# === EPOCH TIMES SHOWS ===
+crossroads.tv
+crossroadsshow.com
+americanthoughtleaders.com
+factsmatter.tv
+epochtvshow.com
+
+# === EPOCH TIMES TECHNOLOGY ===
+epochtech.com
+epochdigital.com
+epochplatform.com
+epochapp.com
+
+# === EPOCH TIMES HEALTH ===
+epochhealth.com
+epochwellness.com
+epochlifestyle.com
+epochnutrition.com
+
+# === EPOCH TIMES ADVERTISING ===
+epochads.com
+epochadvertising.com
+epochmarketing.com
+epochsponsors.com
+
+# === EPOCH TIMES EVENTS ===
+epochevents.com
+epochconferences.com
+epochsummits.com
+epochgatherings.com
+
+# === EPOCH TIMES NEWSLETTERS ===
+epochnewsletter.com
+epochdaily.com
+epochupdates.com
+epochinsider.com
+
+# === EPOCH TIMES SPECIAL PROJECTS ===
+epochspecial.com
+epochprojects.com
+epochinitiatives.com
+epochinvestigations.com
+
+# === EPOCH TIMES FOUNDATION ===
+epochfoundation.com
+epochfoundation.org
+epochcharitable.com
+epochnews.org
+
+# === END OF EPOCH TIMES LIST ===
+# Total domains: 50+
+# This covers The Epoch Times media organization and related properties

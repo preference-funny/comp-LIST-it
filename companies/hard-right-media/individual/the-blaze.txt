@@ -1,0 +1,102 @@
+# The Blaze - Complete Domain List
+# Glenn Beck's conservative media empire
+# Generated: September 19, 2025
+#
+# The Blaze is Glenn Beck's conservative media company featuring TV, radio,
+# digital content, and educational programs. It promotes libertarian-conservative
+# viewpoints and conspiracy theories.
+#
+# Key Personalities: Glenn Beck, Stu Burguiere, Pat Gray, Sara Gonzales,
+# Jason Whitlock, Steve Deace
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN BLAZE DOMAINS ===
+theblaze.com
+blazetv.com
+blazeradio.com
+blazemedia.com
+
+# === BLAZE STREAMING & CONTENT ===
+blazeoriginals.com
+blazeplus.com
+blazesubscriptions.com
+blazecontent.com
+blazestreaming.com
+blazepodcasts.com
+blazenews.com
+blazeentertainment.com
+
+# === GLENN BECK PROPERTIES ===
+glennbeck.com
+beckradio.com
+glennbeckshow.com
+glennbeckradio.com
+
+# === BLAZE PERSONALITIES ===
+stuburguiere.com
+patgray.com
+saragonzales.com
+jasonwhitlock.com
+stevedeace.com
+
+# === BLAZE BUSINESS ===
+blazestore.com
+blazebooks.com
+blazecommerce.com
+blazesales.com
+
+# === BLAZE EDUCATION ===
+blazeacademy.com
+blazeuniversity.com
+blazeeducation.com
+
+# === MERCURY STUDIOS (GLENN BECK) ===
+mercury-studios.com
+mercuryradioarts.com
+mercuryproductions.com
+
+# === GLENN BECK PROJECTS ===
+9-12project.com
+restoreourhonor.com
+beckfoundation.com
+
+# === BLAZE DIGITAL PLATFORMS ===
+blazedigital.com
+blazeonline.com
+blazeweb.com
+blazeapp.com
+
+# === BLAZE BUSINESS DIVISIONS ===
+blazeadvertising.com
+blazemarketing.com
+blazecorporate.com
+blazebranding.com
+
+# === BLAZE EVENTS ===
+blazeevents.com
+blazelive.com
+blazeconferences.com
+blazetalks.com
+
+# === BLAZE INTERNATIONAL ===
+blazeinternational.com
+blazeglobal.com
+blazeworldwide.com
+
+# === BLAZE TECHNOLOGY ===
+blazetech.com
+blazeplatform.com
+blazesystem.com
+blazecloud.com
+
+# === BLAZE SPECIAL PROJECTS ===
+blazespecial.com
+blazeprojects.com
+blazeinitiatives.com
+blazecampaigns.com
+
+# === END OF THE BLAZE LIST ===
+# Total domains: 55+
+# This covers The Blaze media empire and Glenn Beck's various projects

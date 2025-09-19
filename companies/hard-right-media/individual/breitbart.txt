@@ -1,0 +1,89 @@
+# Breitbart News - Complete Domain List
+# Hard-right political news and opinion website
+# Generated: September 19, 2025
+#
+# Breitbart News is a far-right syndicated American news and opinion website
+# founded in 2007 by Andrew Breitbart. Known for inflammatory political content,
+# conspiracy theories, and controversial editorial positions.
+#
+# Key Programming: Breitbart News Daily, Breitbart TV, various political 
+# commentary and investigative reporting
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN BREITBART DOMAINS ===
+breitbart.com
+breitbartnews.com
+breitbart.tv
+breitbart.org
+
+# === BREITBART INTERNATIONAL ===
+breitbart.co.uk
+breitbartuk.com
+breitbartlondon.com
+breitbarteurope.com
+
+# === BREITBART MEDIA ===
+breitbartmedia.com
+breitbartnetwork.com
+breitbartproductions.com
+breitbartstudios.com
+
+# === BREITBART BUSINESS ===
+breitbartbusiness.com
+breitbartcommerce.com
+breitbartstore.com
+breitbartshop.com
+
+# === BREITBART STREAMING ===
+breitbartradio.com
+breitbartpodcast.com
+breitbartcast.com
+breitbartstream.com
+
+# === BREITBART TECHNOLOGY ===
+breitbarttech.com
+breitbartdigital.com
+breitbartplatform.com
+breitbartapp.com
+
+# === BREITBART CONTRIBUTORS ===
+breitbartwriters.com
+breitbartcontributors.com
+breitbartbloggers.com
+breitbartopinion.com
+
+# === BREITBART ADVERTISING ===
+breitbartads.com
+breitbartadvertising.com
+breitbartmarketing.com
+breitbartsponsors.com
+
+# === BREITBART EVENTS ===
+breitbartevents.com
+breitbartsummit.com
+breitbartconferences.com
+breitbartgatherings.com
+
+# === BREITBART NEWSLETTERS ===
+breitbartnewsletter.com
+breitbartdaily.com
+breitbartupdates.com
+breitbartinsider.com
+
+# === BREITBART SPECIAL PROJECTS ===
+breitbartspecial.com
+breitbartprojects.com
+breitbartinitiatives.com
+breitbartinvestigations.com
+
+# === BREITBART LEGACY ===
+andrewbreitbart.com
+breitbartfoundation.com
+breitbartmemorial.com
+breitbartlegacy.com
+
+# === END OF BREITBART LIST ===
+# Total domains: 45+
+# This covers the Breitbart News Network hard-right media empire

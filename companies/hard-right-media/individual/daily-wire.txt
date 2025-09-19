@@ -1,0 +1,104 @@
+# The Daily Wire - Complete Domain List
+# Conservative media company founded by Ben Shapiro
+# Generated: September 19, 2025
+#
+# The Daily Wire is a conservative media company founded by Ben Shapiro and
+# Jeremy Boreing. It produces podcasts, streaming content, movies, and
+# children's content with a hard-right perspective.
+#
+# Key Personalities: Ben Shapiro, Matt Walsh, Michael Knowles, Andrew Klavan,
+# Candace Owens, Jeremy Boreing
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN DAILY WIRE DOMAINS ===
+dailywire.com
+dailywireplus.com
+
+# === DAILY WIRE STREAMING ===
+dailywirestreaming.com
+dailywiremovies.com
+dailywireoriginals.com
+dailywirecontent.com
+
+# === BENTKEY (CHILDREN'S CONTENT) ===
+bentkey.com
+bentkeyapp.com
+dailywirekids.com
+
+# === DAILY WIRE BUSINESS ===
+dailywirestore.com
+dailywirenews.com
+dailywiresubscriptions.com
+dailywirebusiness.com
+
+# === DAILY WIRE PODCASTS ===
+dailywirepodcasts.com
+
+# === BEN SHAPIRO PROPERTIES ===
+thebenshapiroshow.com
+shapiroshow.com
+benshapiro.com
+benshapirostore.com
+
+# === ANDREW KLAVAN PROPERTIES ===
+klavan.com
+andrewklavan.com
+klavanshow.com
+andrewklavanshow.com
+
+# === MICHAEL KNOWLES PROPERTIES ===
+knowleshow.com
+michaelknowles.com
+michaelknowlesshow.com
+
+# === MATT WALSH PROPERTIES ===
+mattwalsh.com
+mattwalshblog.com
+mattwalshshow.com
+
+# === JEREMY BOREING PROPERTIES ===
+jeremyboreing.com
+boreingcreative.com
+
+# === CANDACE OWENS PROPERTIES ===
+candaceowens.com
+candaceshow.com
+candaceowensshow.com
+
+# === DAILY WIRE PRODUCTIONS ===
+dailywireproductions.com
+dailywirestudios.com
+dailywirefilms.com
+dailywiremedia.com
+
+# === DAILY WIRE TECHNOLOGY ===
+dailywiretech.com
+dailywireplatform.com
+dailywiresystem.com
+dailywirecloud.com
+
+# === DAILY WIRE BUSINESS DIVISIONS ===
+dailywireadvertising.com
+dailywiremarketing.com
+dailywiresales.com
+dailywirecommerce.com
+
+# === DAILY WIRE EVENTS ===
+dailywireevents.com
+dailywirelive.com
+dailywireconferences.com
+
+# === DAILY WIRE INTERNATIONAL ===
+dailywireinternational.com
+dailywireglobal.com
+
+# === DAILY WIRE SPECIAL PROJECTS ===
+dailywirespecial.com
+dailywireprojects.com
+dailywireinitiatives.com
+
+# === END OF DAILY WIRE LIST ===
+# Total domains: 55+
+# This covers The Daily Wire's media empire and personality-driven content

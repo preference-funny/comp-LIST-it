@@ -1,0 +1,135 @@
+# Salem Media Group - Complete Domain List
+# Conservative talk radio empire and digital properties
+# Generated: September 19, 2025
+#
+# Salem Media Group is a conservative radio broadcasting company that also owns
+# major conservative websites and digital properties. It's one of the largest
+# conservative media companies in the United States.
+#
+# Key Properties: Townhall, RedState, Hot Air, PJ Media, Twitchy,
+# Bearing Arms, Legal Insurrection, multiple radio stations
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === SALEM CORPORATE ===
+salemmedia.com
+salemradio.com
+salemradionetworks.com
+salemnow.com
+salemmediastore.com
+
+# === TOWNHALL PROPERTIES ===
+townhall.com
+townhallmag.com
+townhallstore.com
+townhallfinance.com
+townhallpolitics.com
+
+# === REDSTATE ===
+redstate.com
+redstatenation.com
+redstatepolitics.com
+redstatenews.com
+
+# === HOT AIR ===
+hotair.com
+hotairpundit.com
+hotairnews.com
+
+# === TWITCHY ===
+twitchy.com
+twitchynews.com
+twitchypolitics.com
+
+# === PJ MEDIA ===
+pjmedia.com
+pjmediastore.com
+pjmedianews.com
+
+# === INSTAPUNDIT ===
+instapundit.com
+instapunditnews.com
+
+# === BEARING ARMS ===
+bearingarms.com
+bearingarmsnews.com
+
+# === LEGAL INSURRECTION ===
+legalinsurrection.com
+legalinsurrectionnews.com
+
+# === AMERICAN THINKER ===
+americanthinker.com
+americanthinkernews.com
+
+# === LIFE NEWS ===
+lifenews.com
+lifenewspolitics.com
+
+# === LIFESITE NEWS ===
+lifesitenews.com
+lifesitestore.com
+
+# === CHARISMA NEWS ===
+charismanews.com
+charismamagazine.com
+charismastore.com
+
+# === CHRISTIAN POST ===
+christianpost.com
+christianpostnews.com
+
+# === CROSSWALK ===
+crosswalk.com
+crosswalknews.com
+
+# === CHRISTIAN HEADLINES ===
+christianheadlines.com
+christianheadlinesnews.com
+
+# === FAITHWIRE ===
+faithwire.com
+faithwirenews.com
+
+# === SALEM RADIO STATIONS ===
+wayradio.com
+kvta.com
+kkla.com
+krla.com
+kfax.com
+wava.com
+wmca.com
+wyll.com
+
+# === SALEM DIGITAL PLATFORMS ===
+salemdigital.com
+salemonline.com
+salemweb.com
+salemapp.com
+
+# === SALEM BUSINESS DIVISIONS ===
+salemadvertising.com
+salemmarketing.com
+salemsales.com
+salemcommerce.com
+
+# === SALEM EVENTS ===
+salemevents.com
+salemlive.com
+salemconferences.com
+
+# === SALEM TECHNOLOGY ===
+salemtech.com
+salemplatform.com
+salemsystem.com
+salemcloud.com
+
+# === SALEM INTERNATIONAL ===
+saleminternational.com
+salemglobal.com
+salemworldwide.com
+
+# === END OF SALEM MEDIA GROUP LIST ===
+# Total domains: 75+
+# This covers Salem Media Group's extensive radio and digital media empire

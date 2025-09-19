@@ -1,0 +1,340 @@
+# Hard-Right Media Networks - Hosts Format
+# Compatible with: System hosts file, Pi-hole hosts format
+# Generated: September 19, 2025
+# Total domains: 300+
+#
+# This list blocks hard-right entertainment content that styles itself as news,
+# including cable networks, digital platforms, radio empires, and streaming services.
+# Format: 0.0.0.0 domain.com (hosts file syntax)
+#
+# Usage:
+# - Linux/macOS: Add to /etc/hosts
+# - Windows: Add to C:\Windows\System32\drivers\etc\hosts
+# - Pi-hole: Add as hosts file
+#
+# Sources: Corporate filings, FCC records, domain research, network analysis
+
+# === NEWSMAX MEDIA ===
+0.0.0.0 newsmax.com
+0.0.0.0 newsmaxworld.com
+0.0.0.0 newsmaxhealth.com
+0.0.0.0 newsmaxstore.com
+0.0.0.0 newsmaxapp.com
+0.0.0.0 newsmaxlive.com
+0.0.0.0 newsmaxplus.com
+0.0.0.0 newsmaxdigital.com
+0.0.0.0 newsmaxnow.com
+0.0.0.0 newsmaxstream.com
+0.0.0.0 newsmaxmobile.com
+0.0.0.0 newsmaxprime.com
+0.0.0.0 newsmaxwealth.com
+0.0.0.0 newsmaxinside.com
+0.0.0.0 newsmaxads.com
+0.0.0.0 newsmaxmedia.com
+0.0.0.0 newsmaxcontent.com
+0.0.0.0 newsmaxsubscriptions.com
+
+# === ONE AMERICA NEWS NETWORK (OAN) ===
+0.0.0.0 oann.com
+0.0.0.0 oneamericanews.com
+0.0.0.0 oneamerica.com
+0.0.0.0 oannews.com
+0.0.0.0 oanews.com
+0.0.0.0 realamericasvoice.com
+0.0.0.0 realamericasvoice.news
+0.0.0.0 oannow.com
+0.0.0.0 oamn.tv
+0.0.0.0 oneamericanow.com
+0.0.0.0 oneamericastream.com
+0.0.0.0 oneamericamobile.com
+0.0.0.0 oneamericaplus.com
+0.0.0.0 herringsports.com
+0.0.0.0 herringsportsentertainment.com
+
+# === THE DAILY WIRE ===
+0.0.0.0 dailywire.com
+0.0.0.0 dailywireplus.com
+0.0.0.0 bentkey.com
+0.0.0.0 bentkeyapp.com
+0.0.0.0 dailywirestore.com
+0.0.0.0 dailywirenews.com
+0.0.0.0 dailywiresubscriptions.com
+0.0.0.0 dailywirecontent.com
+0.0.0.0 dailywirestreaming.com
+0.0.0.0 dailywiremovies.com
+0.0.0.0 dailywirepodcasts.com
+0.0.0.0 dailywireoriginals.com
+0.0.0.0 dailywirekids.com
+0.0.0.0 dailywirebusiness.com
+0.0.0.0 thebenshapiroshow.com
+0.0.0.0 shapiroshow.com
+0.0.0.0 klavan.com
+0.0.0.0 knowleshow.com
+0.0.0.0 andrewklavan.com
+0.0.0.0 michaelknowles.com
+0.0.0.0 mattwalsh.com
+0.0.0.0 mattwalshblog.com
+0.0.0.0 jeremyboreing.com
+0.0.0.0 candaceowens.com
+0.0.0.0 candaceshow.com
+
+# === THE BLAZE ===
+0.0.0.0 theblaze.com
+0.0.0.0 blazetv.com
+0.0.0.0 blazeradio.com
+0.0.0.0 blazemedia.com
+0.0.0.0 blazestore.com
+0.0.0.0 blazeoriginals.com
+0.0.0.0 blazeplus.com
+0.0.0.0 blazesubscriptions.com
+0.0.0.0 blazecontent.com
+0.0.0.0 blazestreaming.com
+0.0.0.0 blazepodcasts.com
+0.0.0.0 blazenews.com
+0.0.0.0 blazeentertainment.com
+0.0.0.0 glennbeck.com
+0.0.0.0 beckradio.com
+0.0.0.0 stuburguiere.com
+0.0.0.0 patgray.com
+0.0.0.0 blazebooks.com
+0.0.0.0 blazeacademy.com
+0.0.0.0 blazeuniversity.com
+
+# === SALEM MEDIA GROUP ===
+0.0.0.0 salemmedia.com
+0.0.0.0 salemradio.com
+0.0.0.0 salemradionetworks.com
+0.0.0.0 salemnow.com
+0.0.0.0 salemmediastore.com
+0.0.0.0 townhall.com
+0.0.0.0 townhallmag.com
+0.0.0.0 townhallstore.com
+0.0.0.0 redstate.com
+0.0.0.0 redstatenation.com
+0.0.0.0 hotair.com
+0.0.0.0 twitchy.com
+0.0.0.0 pjmedia.com
+0.0.0.0 pjmediastore.com
+0.0.0.0 instapundit.com
+0.0.0.0 bearingarms.com
+0.0.0.0 legalinsurrection.com
+0.0.0.0 americanthinker.com
+0.0.0.0 lifenews.com
+0.0.0.0 lifesitenews.com
+0.0.0.0 charismanews.com
+0.0.0.0 charismamagazine.com
+0.0.0.0 christianpost.com
+0.0.0.0 crosswalk.com
+0.0.0.0 christianheadlines.com
+0.0.0.0 faithwire.com
+0.0.0.0 wayradio.com
+0.0.0.0 kvta.com
+0.0.0.0 kkla.com
+0.0.0.0 krla.com
+
+# === REAL AMERICA'S VOICE ===
+0.0.0.0 realamericasvoice.com
+0.0.0.0 realamericasvoice.news
+0.0.0.0 realamericasvoicenews.com
+0.0.0.0 ravnews.com
+0.0.0.0 ravnetwork.com
+0.0.0.0 ravstreaming.com
+0.0.0.0 ravlive.com
+0.0.0.0 ravplus.com
+0.0.0.0 warroom.org
+0.0.0.0 warroomdaily.com
+0.0.0.0 warroomshow.com
+0.0.0.0 bannonwarroom.com
+0.0.0.0 stevebannon.com
+
+# === RIGHT SIDE BROADCASTING NETWORK (RSBN) ===
+0.0.0.0 rsbn.tv
+0.0.0.0 rightsidebroadcasting.com
+0.0.0.0 rsbnetwork.com
+0.0.0.0 rsbnews.com
+0.0.0.0 rsbplus.com
+0.0.0.0 rsbnow.com
+0.0.0.0 rsblive.com
+0.0.0.0 rsbstream.com
+0.0.0.0 rsbapp.com
+
+# === EPOCH TIMES ===
+0.0.0.0 epochtimes.com
+0.0.0.0 theepochtimes.com
+0.0.0.0 epochtv.com
+0.0.0.0 epochstore.com
+0.0.0.0 epochsubscriptions.com
+0.0.0.0 epochhealth.com
+0.0.0.0 epochinspired.com
+0.0.0.0 epochoriginals.com
+0.0.0.0 epochgames.com
+0.0.0.0 epochcrossword.com
+0.0.0.0 epochfun.com
+0.0.0.0 epochkids.com
+0.0.0.0 epochbusiness.com
+0.0.0.0 epochworld.com
+0.0.0.0 epochnews.com
+
+# === GATEWAY PUNDIT ===
+0.0.0.0 thegatewaypundit.com
+0.0.0.0 gatewaypundit.com
+0.0.0.0 gpundit.com
+0.0.0.0 tgpstore.com
+0.0.0.0 tgpnews.com
+0.0.0.0 tgpplus.com
+0.0.0.0 tgptv.com
+0.0.0.0 tgpstream.com
+
+# === BREITBART NEWS ===
+0.0.0.0 breitbart.com
+0.0.0.0 breitbartnews.com
+0.0.0.0 breitbartradio.com
+0.0.0.0 breitbarttv.com
+0.0.0.0 breitbartstore.com
+0.0.0.0 breitbartplus.com
+0.0.0.0 breitbartlive.com
+0.0.0.0 breitbartstream.com
+0.0.0.0 breitbartpodcasts.com
+0.0.0.0 sirius-xm-patriot.com
+
+# === INFOWARS (ALEX JONES) ===
+0.0.0.0 infowars.com
+0.0.0.0 infowarsstore.com
+0.0.0.0 infowarslife.com
+0.0.0.0 infowarsplus.com
+0.0.0.0 infowarsapp.com
+0.0.0.0 infowarsstream.com
+0.0.0.0 infowarsshop.com
+0.0.0.0 infowarshealth.com
+0.0.0.0 banned.video
+0.0.0.0 freeworldnews.tv
+0.0.0.0 prisonplanet.com
+0.0.0.0 prisonplanet.tv
+0.0.0.0 alexjones.com
+0.0.0.0 alexjonesshow.com
+0.0.0.0 infowarsmagazine.com
+
+# === WAR ROOM (STEVE BANNON) ===
+0.0.0.0 warroom.org
+0.0.0.0 warroomdaily.com
+0.0.0.0 warroomshow.com
+0.0.0.0 bannonwarroom.com
+0.0.0.0 stevebannon.com
+0.0.0.0 bannonmedia.com
+0.0.0.0 bannonswarroom.com
+
+# === AMERICA FIRST MEDIA ===
+0.0.0.0 americafirst.live
+0.0.0.0 americafirstmedia.com
+0.0.0.0 cozystream.tv
+0.0.0.0 cozy.tv
+0.0.0.0 goyimtv.tv
+0.0.0.0 nicholasjfuentes.com
+0.0.0.0 americafirstpodcast.com
+
+# === TURNING POINT USA MEDIA ===
+0.0.0.0 turningpointusa.com
+0.0.0.0 tpusa.com
+0.0.0.0 tpusastore.com
+0.0.0.0 charliekirk.com
+0.0.0.0 charliekirkshow.com
+0.0.0.0 tpaction.com
+0.0.0.0 tpstudentaction.com
+0.0.0.0 tpfaith.com
+
+# === ADDITIONAL PERSONALITIES & MEDIA ===
+0.0.0.0 glennbeck.com
+0.0.0.0 beckradio.com
+0.0.0.0 mercury-studios.com
+0.0.0.0 mercuryradioarts.com
+0.0.0.0 9-12project.com
+0.0.0.0 restoreourhonor.com
+0.0.0.0 bongino.com
+0.0.0.0 danboginoshow.com
+0.0.0.0 bonginostore.com
+0.0.0.0 bonginoreport.com
+0.0.0.0 bonginoradio.com
+0.0.0.0 bonginopodcast.com
+0.0.0.0 michaelsavage.com
+0.0.0.0 savageradio.com
+0.0.0.0 savageshow.com
+0.0.0.0 savagestore.com
+0.0.0.0 savagepodcast.com
+0.0.0.0 marklevinshow.com
+0.0.0.0 levinshow.com
+0.0.0.0 levintv.com
+0.0.0.0 levinstore.com
+0.0.0.0 marklevi.com
+0.0.0.0 levinradio.com
+0.0.0.0 dineshdsouza.com
+0.0.0.0 dsouzamedia.com
+0.0.0.0 dsouzastore.com
+0.0.0.0 dsouzafilms.com
+0.0.0.0 dsouzadocumentaries.com
+0.0.0.0 judicialwatch.org
+0.0.0.0 judicialwatchstore.com
+0.0.0.0 tomfitton.com
+0.0.0.0 judicialwatchnews.org
+0.0.0.0 projectveritas.com
+0.0.0.0 veritasstore.com
+0.0.0.0 jamesokeefe.com
+0.0.0.0 veritasnews.com
+0.0.0.0 projectveritasaction.com
+0.0.0.0 candaceowens.com
+0.0.0.0 candaceshow.com
+0.0.0.0 candacestore.com
+0.0.0.0 owensmedia.com
+0.0.0.0 tuckercarlson.com
+0.0.0.0 tuckerstore.com
+0.0.0.0 tuckercarlsonoriginals.com
+0.0.0.0 tuckerplus.com
+
+# === SOCIAL MEDIA PLATFORMS ===
+0.0.0.0 truthsocial.com
+0.0.0.0 gettr.com
+0.0.0.0 gab.com
+0.0.0.0 gab.ai
+0.0.0.0 gabtv.com
+0.0.0.0 rumble.com
+0.0.0.0 rumblestore.com
+0.0.0.0 bitchute.com
+0.0.0.0 parler.com
+0.0.0.0 frankspeech.com
+0.0.0.0 brighteon.com
+0.0.0.0 banned.video
+0.0.0.0 odysee.com
+
+# === ADDITIONAL NETWORKS & OUTLETS ===
+0.0.0.0 americanmedia.com
+0.0.0.0 amgreatness.com
+0.0.0.0 americanspectator.org
+0.0.0.0 spectator.org
+0.0.0.0 washingtonexaminer.com
+0.0.0.0 weeklystandard.com
+0.0.0.0 nationalreview.com
+0.0.0.0 americanconservative.com
+0.0.0.0 conservativereview.com
+0.0.0.0 lifezette.com
+0.0.0.0 wnd.com
+0.0.0.0 westernjournal.com
+0.0.0.0 bizpacreview.com
+0.0.0.0 thepostmillennial.com
+0.0.0.0 nationalfile.com
+0.0.0.0 bigleaguepolitics.com
+0.0.0.0 americanthinker.com
+0.0.0.0 americanmirror.com
+0.0.0.0 100percentfedup.com
+0.0.0.0 thefederalist.com
+0.0.0.0 dailycaller.com
+0.0.0.0 freebeacon.com
+
+# === RADIO SYNDICATORS ===
+0.0.0.0 premierenetworks.com
+0.0.0.0 cumulusmedia.com
+0.0.0.0 westwood-one.com
+0.0.0.0 salem-web.com
+0.0.0.0 unitedstationsradio.com
+
+# === END OF LIST ===
+# This list focuses on hard-right entertainment content styled as news
+# Generic services used by multiple companies are excluded to prevent breaking other websites

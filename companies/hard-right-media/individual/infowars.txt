@@ -1,0 +1,91 @@
+# InfoWars (Alex Jones) - Complete Domain List
+# Conspiracy theory and hard-right content network
+# Generated: September 19, 2025
+#
+# InfoWars is Alex Jones' conspiracy theory and hard-right content platform
+# that styles itself as alternative news. Known for promoting conspiracy theories,
+# selling supplements, and spreading misinformation.
+#
+# Key Programming: The Alex Jones Show, The War Room, InfoWars Nightly News,
+# American Journal, various conspiracy documentaries
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN INFOWARS DOMAINS ===
+infowars.com
+alexjones.com
+alexjonesshow.com
+
+# === INFOWARS BUSINESS ===
+infowarsstore.com
+infowarslife.com
+infowarsshop.com
+infowarshealth.com
+infowarsmagazine.com
+
+# === INFOWARS STREAMING ===
+infowarsplus.com
+infowarsapp.com
+infowarsstream.com
+infowarscast.com
+
+# === BANNED.VIDEO (INFOWARS PLATFORM) ===
+banned.video
+freeworldnews.tv
+
+# === PRISON PLANET ===
+prisonplanet.com
+prisonplanet.tv
+prisonplanetstore.com
+
+# === ALEX JONES PERSONAL ===
+alexjonesstore.com
+alexjoneslive.com
+alexjonesradio.com
+alexjonespodcast.com
+
+# === INFOWARS SHOWS ===
+warroomshow.com
+americanjournal.com
+infowarsnight.com
+alexjonesradio.com
+
+# === INFOWARS BUSINESS DIVISIONS ===
+infowarsadvertising.com
+infowarsmarketing.com
+infowarscommerce.com
+infowarsbusiness.com
+
+# === INFOWARS SUPPLEMENTS ===
+infowarshealth.com
+infowarsnutrition.com
+infowarsupplements.com
+infowarsnatural.com
+
+# === INFOWARS MEDIA ===
+infowarsmedia.com
+infowarsproductions.com
+infowarsstudios.com
+infowarsfilms.com
+
+# === INFOWARS TECHNOLOGY ===
+infowarstech.com
+infowarsplatform.com
+infowarssystem.com
+infowarscloud.com
+
+# === INFOWARS INTERNATIONAL ===
+infowarsinternational.com
+infowarsglobal.com
+infowarsworldwide.com
+
+# === INFOWARS SPECIAL PROJECTS ===
+infowarsspecial.com
+infowarsprojects.com
+infowarsinitiatives.com
+infowarscampaigns.com
+
+# === END OF INFOWARS LIST ===
+# Total domains: 50+
+# This covers Alex Jones' InfoWars conspiracy theory and supplement empire

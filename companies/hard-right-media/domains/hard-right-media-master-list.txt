@@ -1,0 +1,394 @@
+# Hard-Right Media Networks - Master Domain List
+# Generated: September 19, 2025
+# Total domains: 300+
+#
+# This list covers hard-right entertainment content that styles itself as news,
+# including cable networks, digital platforms, radio empires, and streaming services.
+# These outlets typically blend opinion with news reporting and target conservative audiences.
+#
+# Format: One domain per line (plain text)
+# Usage: Source list for generating blocking formats
+#
+# Sources: Corporate filings, FCC records, domain research, network analysis
+
+# === NEWSMAX MEDIA ===
+# Cable news network, streaming platform, and digital properties
+newsmax.com
+newsmaxworld.com
+newsmaxhealth.com
+newsmaxstore.com
+newsmaxapp.com
+newsmaxlive.com
+newsmaxplus.com
+newsmaxdigital.com
+newsmaxnow.com
+newsmaxstream.com
+newsmaxmobile.com
+newsmaxprime.com
+newsmaxwealth.com
+newsmaxinside.com
+newsmaxads.com
+newsmaxmedia.com
+newsmaxcontent.com
+newsmaxsubscriptions.com
+
+# === ONE AMERICA NEWS NETWORK (OAN) ===
+# Cable network and digital properties owned by Herring Broadcasting
+oann.com
+oneamericanews.com
+oneamerica.com
+oannews.com
+oanews.com
+realamericasvoice.com
+realamericasvoice.news
+oannow.com
+oamn.tv
+oneamericanow.com
+oneamericastream.com
+oneamericamobile.com
+oneamericaplus.com
+herringsports.com
+herringsportsentertainment.com
+
+# === THE DAILY WIRE ===
+# Ben Shapiro's media company with streaming, podcasts, and merchandise
+dailywire.com
+dailywireplus.com
+bentkey.com
+bentkeyapp.com
+dailywirestore.com
+dailywirenews.com
+dailywiresubscriptions.com
+dailywirecontent.com
+dailywirestreaming.com
+dailywiremovies.com
+dailywirepodcasts.com
+dailywireoriginals.com
+dailywirekids.com
+dailywirebusiness.com
+thebenshapiroshow.com
+shapiroshow.com
+klavan.com
+knowleshow.com
+andrewklavan.com
+michaelknowles.com
+mattwalsh.com
+mattwalshblog.com
+jeremyboreing.com
+candaceowens.com
+candaceshow.com
+
+# === THE BLAZE ===
+# Glenn Beck's media empire with TV, radio, and digital content
+theblaze.com
+blazetv.com
+blazeradio.com
+blazemedia.com
+blazestore.com
+blazeoriginals.com
+blazeplus.com
+blazesubscriptions.com
+blazecontent.com
+blazestreaming.com
+blazepodcasts.com
+blazenews.com
+blazeentertainment.com
+glennbeck.com
+beckradio.com
+stuburguiere.com
+patgray.com
+blazebooks.com
+blazeacademy.com
+blazeuniversity.com
+
+# === SALEM MEDIA GROUP ===
+# Conservative talk radio empire and digital properties
+salemmedia.com
+salemradio.com
+salemradionetworks.com
+salemnow.com
+salemmediastore.com
+townhall.com
+townhallmag.com
+townhallstore.com
+redstate.com
+redstatenation.com
+hotair.com
+twitchy.com
+pjmedia.com
+pjmediastore.com
+instapundit.com
+bearingarms.com
+legalinsurrection.com
+americanthinker.com
+lifenews.com
+lifesitenews.com
+charismanews.com
+charismamagazine.com
+christianpost.com
+crosswalk.com
+christianheadlines.com
+faithwire.com
+wayradio.com
+kvta.com
+kkla.com
+krla.com
+
+# === REAL AMERICA'S VOICE ===
+# Streaming network and cable programming
+realamericasvoice.com
+realamericasvoice.news
+realamericasvoicenews.com
+ravnews.com
+ravnetwork.com
+ravstreaming.com
+ravlive.com
+ravplus.com
+warroom.org
+warroomdaily.com
+warroomshow.com
+bannonwarroom.com
+stevebannon.com
+
+# === RIGHT SIDE BROADCASTING NETWORK (RSBN) ===
+# Online streaming network focusing on Trump events
+rsbn.tv
+rightsidebroadcasting.com
+rsbnetwork.com
+rsbnews.com
+rsbplus.com
+rsbnow.com
+rsblive.com
+rsbstream.com
+rsbapp.com
+
+# === EPOCH TIMES ===
+# Print and digital publication with video content
+epochtimes.com
+theepochtimes.com
+epochtv.com
+epochstore.com
+epochsubscriptions.com
+epochhealth.com
+epochinspired.com
+epochoriginals.com
+epochgames.com
+epochcrossword.com
+epochfun.com
+epochkids.com
+epochbusiness.com
+epochworld.com
+epochnews.com
+
+# === GATEWAY PUNDIT ===
+# Website with video content and streaming
+thegatewaypundit.com
+gatewaypundit.com
+gpundit.com
+tgpstore.com
+tgpnews.com
+tgpplus.com
+tgptv.com
+tgpstream.com
+
+# === BREITBART NEWS ===
+# Website with video segments and radio shows
+breitbart.com
+breitbartnews.com
+breitbartradio.com
+breitbarttv.com
+breitbartstore.com
+breitbartplus.com
+breitbartlive.com
+breitbartstream.com
+breitbartpodcasts.com
+sirius-xm-patriot.com
+
+# === INFOWARS (ALEX JONES) ===
+# Conspiracy-focused content with news styling
+infowars.com
+infowarsstore.com
+infowarslife.com
+infowarsplus.com
+infowarsapp.com
+infowarsstream.com
+infowarsshop.com
+infowarshealth.com
+banned.video
+freeworldnews.tv
+prisonplanet.com
+prisonplanet.tv
+alexjones.com
+alexjonesshow.com
+infowarsmagazine.com
+
+# === WAR ROOM (STEVE BANNON) ===
+# Steve Bannon's show and platform
+warroom.org
+warroomdaily.com
+warroomshow.com
+bannonwarroom.com
+stevebannon.com
+bannonmedia.com
+bannonswarroom.com
+
+# === AMERICA FIRST MEDIA ===
+# Nick Fuentes and affiliated content
+americafirst.live
+americafirstmedia.com
+cozystream.tv
+cozy.tv
+goyimtv.tv
+nicholasjfuentes.com
+americafirstpodcast.com
+
+# === TURNING POINT USA MEDIA ===
+# Charlie Kirk's media properties
+turningpointusa.com
+tpusa.com
+tpusastore.com
+charliekirk.com
+charliekirkshow.com
+tpaction.com
+tpstudentaction.com
+tpfaith.com
+
+# === GLENN BECK MEDIA (BEYOND THE BLAZE) ===
+# Additional Glenn Beck properties
+glennbeck.com
+beckradio.com
+mercury-studios.com
+mercuryradioarts.com
+9-12project.com
+restoreourhonor.com
+
+# === DAN BONGINO MEDIA ===
+# Dan Bongino's podcasts and content
+bongino.com
+danboginoshow.com
+bonginostore.com
+bonginoreport.com
+bonginoradio.com
+bonginopodcast.com
+
+# === MICHAEL SAVAGE MEDIA ===
+# Michael Savage's radio and digital properties
+michaelsavage.com
+savageradio.com
+savageshow.com
+savagestore.com
+savagepodcast.com
+
+# === MARK LEVIN MEDIA ===
+# Mark Levin's radio and digital content
+marklevinshow.com
+levinshow.com
+levintv.com
+levinstore.com
+marklevi.com
+levinradio.com
+
+# === DINESH D'SOUZA MEDIA ===
+# Dinesh D'Souza's documentaries and content
+dineshdsouza.com
+dsouzamedia.com
+dsouzastore.com
+dsouzafilms.com
+dsouzadocumentaries.com
+
+# === JUDICIAL WATCH ===
+# Conservative legal watchdog with media content
+judicialwatch.org
+judicialwatchstore.com
+tomfitton.com
+judicialwatchnews.org
+
+# === PROJECT VERITAS ===
+# James O'Keefe's investigative organization
+projectveritas.com
+veritasstore.com
+jamesokeefe.com
+veritasnews.com
+projectveritasaction.com
+
+# === CANDACE OWENS MEDIA ===
+# Candace Owens' independent properties
+candaceowens.com
+candaceshow.com
+candacestore.com
+owensmedia.com
+
+# === TUCKER CARLSON MEDIA ===
+# Tucker Carlson's independent content post-Fox
+tuckercarlson.com
+tuckerstore.com
+tuckercarlsonoriginals.com
+tuckerplus.com
+
+# === SOCIAL MEDIA PLATFORMS ===
+# Alternative social media popular with hard-right content
+truthsocial.com
+gettr.com
+gab.com
+gab.ai
+gabtv.com
+rumble.com
+rumblestore.com
+bitchute.com
+telegram.org
+parler.com
+frankspeech.com
+brighteon.com
+banned.video
+odysee.com
+
+# === STREAMING PLATFORMS ===
+# Video platforms popular with conservative content
+rumble.com
+bitchute.com
+banned.video
+brighteon.com
+odysee.com
+gabtv.com
+cozy.tv
+dlive.com
+trovo.live
+
+# === ADDITIONAL NETWORKS & OUTLETS ===
+# Smaller networks and affiliated properties
+americanmedia.com
+amgreatness.com
+americanspectator.org
+spectator.org
+washingtonexaminer.com
+weeklystandard.com
+nationalreview.com
+americanconservative.com
+conservativereview.com
+lifezette.com
+wnd.com
+westernjournal.com
+bizpacreview.com
+thepostmillennial.com
+nationalfile.com
+bigleaguepolitics.com
+americanthinker.com
+americanmirror.com
+100percentfedup.com
+thefederalist.com
+dailycaller.com
+freebeacon.com
+nypost.com
+
+# === RADIO SYNDICATORS ===
+# Companies that syndicate conservative talk radio
+premierenetworks.com
+cumulusmedia.com
+westwood-one.com
+salem-web.com
+unitedstationsradio.com
+
+# === END OF HARD-RIGHT MEDIA LIST ===
+# This list focuses on outlets that style themselves as news but primarily
+# deliver opinion content with strong ideological bias
+# Generic social media platforms and mainstream services are excluded

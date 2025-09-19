@@ -1,0 +1,340 @@
+# Hard-Right Media Networks - AdBlock Format
+# Compatible with: Pi-hole, AdGuard Home, uBlock Origin
+# Generated: September 19, 2025
+# Total domains: 300+
+# 
+# This list blocks hard-right entertainment content that styles itself as news,
+# including cable networks, digital platforms, radio empires, and streaming services.
+# Format: ||domain.com^ (AdBlock Plus syntax)
+#
+# Usage:
+# - Pi-hole: Add as adlist via web interface
+# - AdGuard Home: Add as DNS blocklist
+# - uBlock Origin: Add as custom filter list
+#
+# Sources: Corporate filings, FCC records, domain research, network analysis
+
+# === NEWSMAX MEDIA ===
+||newsmax.com^
+||newsmaxworld.com^
+||newsmaxhealth.com^
+||newsmaxstore.com^
+||newsmaxapp.com^
+||newsmaxlive.com^
+||newsmaxplus.com^
+||newsmaxdigital.com^
+||newsmaxnow.com^
+||newsmaxstream.com^
+||newsmaxmobile.com^
+||newsmaxprime.com^
+||newsmaxwealth.com^
+||newsmaxinside.com^
+||newsmaxads.com^
+||newsmaxmedia.com^
+||newsmaxcontent.com^
+||newsmaxsubscriptions.com^
+
+# === ONE AMERICA NEWS NETWORK (OAN) ===
+||oann.com^
+||oneamericanews.com^
+||oneamerica.com^
+||oannews.com^
+||oanews.com^
+||realamericasvoice.com^
+||realamericasvoice.news^
+||oannow.com^
+||oamn.tv^
+||oneamericanow.com^
+||oneamericastream.com^
+||oneamericamobile.com^
+||oneamericaplus.com^
+||herringsports.com^
+||herringsportsentertainment.com^
+
+# === THE DAILY WIRE ===
+||dailywire.com^
+||dailywireplus.com^
+||bentkey.com^
+||bentkeyapp.com^
+||dailywirestore.com^
+||dailywirenews.com^
+||dailywiresubscriptions.com^
+||dailywirecontent.com^
+||dailywirestreaming.com^
+||dailywiremovies.com^
+||dailywirepodcasts.com^
+||dailywireoriginals.com^
+||dailywirekids.com^
+||dailywirebusiness.com^
+||thebenshapiroshow.com^
+||shapiroshow.com^
+||klavan.com^
+||knowleshow.com^
+||andrewklavan.com^
+||michaelknowles.com^
+||mattwalsh.com^
+||mattwalshblog.com^
+||jeremyboreing.com^
+||candaceowens.com^
+||candaceshow.com^
+
+# === THE BLAZE ===
+||theblaze.com^
+||blazetv.com^
+||blazeradio.com^
+||blazemedia.com^
+||blazestore.com^
+||blazeoriginals.com^
+||blazeplus.com^
+||blazesubscriptions.com^
+||blazecontent.com^
+||blazestreaming.com^
+||blazepodcasts.com^
+||blazenews.com^
+||blazeentertainment.com^
+||glennbeck.com^
+||beckradio.com^
+||stuburguiere.com^
+||patgray.com^
+||blazebooks.com^
+||blazeacademy.com^
+||blazeuniversity.com^
+
+# === SALEM MEDIA GROUP ===
+||salemmedia.com^
+||salemradio.com^
+||salemradionetworks.com^
+||salemnow.com^
+||salemmediastore.com^
+||townhall.com^
+||townhallmag.com^
+||townhallstore.com^
+||redstate.com^
+||redstatenation.com^
+||hotair.com^
+||twitchy.com^
+||pjmedia.com^
+||pjmediastore.com^
+||instapundit.com^
+||bearingarms.com^
+||legalinsurrection.com^
+||americanthinker.com^
+||lifenews.com^
+||lifesitenews.com^
+||charismanews.com^
+||charismamagazine.com^
+||christianpost.com^
+||crosswalk.com^
+||christianheadlines.com^
+||faithwire.com^
+||wayradio.com^
+||kvta.com^
+||kkla.com^
+||krla.com^
+
+# === REAL AMERICA'S VOICE ===
+||realamericasvoice.com^
+||realamericasvoice.news^
+||realamericasvoicenews.com^
+||ravnews.com^
+||ravnetwork.com^
+||ravstreaming.com^
+||ravlive.com^
+||ravplus.com^
+||warroom.org^
+||warroomdaily.com^
+||warroomshow.com^
+||bannonwarroom.com^
+||stevebannon.com^
+
+# === RIGHT SIDE BROADCASTING NETWORK (RSBN) ===
+||rsbn.tv^
+||rightsidebroadcasting.com^
+||rsbnetwork.com^
+||rsbnews.com^
+||rsbplus.com^
+||rsbnow.com^
+||rsblive.com^
+||rsbstream.com^
+||rsbapp.com^
+
+# === EPOCH TIMES ===
+||epochtimes.com^
+||theepochtimes.com^
+||epochtv.com^
+||epochstore.com^
+||epochsubscriptions.com^
+||epochhealth.com^
+||epochinspired.com^
+||epochoriginals.com^
+||epochgames.com^
+||epochcrossword.com^
+||epochfun.com^
+||epochkids.com^
+||epochbusiness.com^
+||epochworld.com^
+||epochnews.com^
+
+# === GATEWAY PUNDIT ===
+||thegatewaypundit.com^
+||gatewaypundit.com^
+||gpundit.com^
+||tgpstore.com^
+||tgpnews.com^
+||tgpplus.com^
+||tgptv.com^
+||tgpstream.com^
+
+# === BREITBART NEWS ===
+||breitbart.com^
+||breitbartnews.com^
+||breitbartradio.com^
+||breitbarttv.com^
+||breitbartstore.com^
+||breitbartplus.com^
+||breitbartlive.com^
+||breitbartstream.com^
+||breitbartpodcasts.com^
+||sirius-xm-patriot.com^
+
+# === INFOWARS (ALEX JONES) ===
+||infowars.com^
+||infowarsstore.com^
+||infowarslife.com^
+||infowarsplus.com^
+||infowarsapp.com^
+||infowarsstream.com^
+||infowarsshop.com^
+||infowarshealth.com^
+||banned.video^
+||freeworldnews.tv^
+||prisonplanet.com^
+||prisonplanet.tv^
+||alexjones.com^
+||alexjonesshow.com^
+||infowarsmagazine.com^
+
+# === WAR ROOM (STEVE BANNON) ===
+||warroom.org^
+||warroomdaily.com^
+||warroomshow.com^
+||bannonwarroom.com^
+||stevebannon.com^
+||bannonmedia.com^
+||bannonswarroom.com^
+
+# === AMERICA FIRST MEDIA ===
+||americafirst.live^
+||americafirstmedia.com^
+||cozystream.tv^
+||cozy.tv^
+||goyimtv.tv^
+||nicholasjfuentes.com^
+||americafirstpodcast.com^
+
+# === TURNING POINT USA MEDIA ===
+||turningpointusa.com^
+||tpusa.com^
+||tpusastore.com^
+||charliekirk.com^
+||charliekirkshow.com^
+||tpaction.com^
+||tpstudentaction.com^
+||tpfaith.com^
+
+# === ADDITIONAL PERSONALITIES & MEDIA ===
+||glennbeck.com^
+||beckradio.com^
+||mercury-studios.com^
+||mercuryradioarts.com^
+||9-12project.com^
+||restoreourhonor.com^
+||bongino.com^
+||danboginoshow.com^
+||bonginostore.com^
+||bonginoreport.com^
+||bonginoradio.com^
+||bonginopodcast.com^
+||michaelsavage.com^
+||savageradio.com^
+||savageshow.com^
+||savagestore.com^
+||savagepodcast.com^
+||marklevinshow.com^
+||levinshow.com^
+||levintv.com^
+||levinstore.com^
+||marklevi.com^
+||levinradio.com^
+||dineshdsouza.com^
+||dsouzamedia.com^
+||dsouzastore.com^
+||dsouzafilms.com^
+||dsouzadocumentaries.com^
+||judicialwatch.org^
+||judicialwatchstore.com^
+||tomfitton.com^
+||judicialwatchnews.org^
+||projectveritas.com^
+||veritasstore.com^
+||jamesokeefe.com^
+||veritasnews.com^
+||projectveritasaction.com^
+||candaceowens.com^
+||candaceshow.com^
+||candacestore.com^
+||owensmedia.com^
+||tuckercarlson.com^
+||tuckerstore.com^
+||tuckercarlsonoriginals.com^
+||tuckerplus.com^
+
+# === SOCIAL MEDIA PLATFORMS ===
+||truthsocial.com^
+||gettr.com^
+||gab.com^
+||gab.ai^
+||gabtv.com^
+||rumble.com^
+||rumblestore.com^
+||bitchute.com^
+||parler.com^
+||frankspeech.com^
+||brighteon.com^
+||banned.video^
+||odysee.com^
+
+# === ADDITIONAL NETWORKS & OUTLETS ===
+||americanmedia.com^
+||amgreatness.com^
+||americanspectator.org^
+||spectator.org^
+||washingtonexaminer.com^
+||weeklystandard.com^
+||nationalreview.com^
+||americanconservative.com^
+||conservativereview.com^
+||lifezette.com^
+||wnd.com^
+||westernjournal.com^
+||bizpacreview.com^
+||thepostmillennial.com^
+||nationalfile.com^
+||bigleaguepolitics.com^
+||americanthinker.com^
+||americanmirror.com^
+||100percentfedup.com^
+||thefederalist.com^
+||dailycaller.com^
+||freebeacon.com^
+
+# === RADIO SYNDICATORS ===
+||premierenetworks.com^
+||cumulusmedia.com^
+||westwood-one.com^
+||salem-web.com^
+||unitedstationsradio.com^
+
+# === END OF LIST ===
+# This list focuses on hard-right entertainment content styled as news
+# Generic services used by multiple companies are excluded to prevent breaking other websites

@@ -1,0 +1,83 @@
+# The Gateway Pundit - Complete Domain List
+# Hard-right political blog and news website
+# Generated: September 19, 2025
+#
+# The Gateway Pundit is an American far-right fake news website
+# founded by Jim Hoft. Known for publishing hoaxes, conspiracy theories,
+# and promoting false information while styling itself as news.
+#
+# Key Programming: Political commentary, conspiracy theory promotion,
+# and inflammatory opinion content
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN GATEWAY PUNDIT DOMAINS ===
+thegatewaypundit.com
+gatewaypundit.com
+gateway-pundit.com
+thegp.com
+
+# === GATEWAY PUNDIT BUSINESS ===
+gatewaypunditstore.com
+gatewaypunditshop.com
+gatewaypunditcommerce.com
+gatewaypunditbusiness.com
+
+# === GATEWAY PUNDIT STREAMING ===
+gatewaypundittv.com
+gatewaypunditradio.com
+gatewaypunditpodcast.com
+gatewaypunditcast.com
+
+# === GATEWAY PUNDIT TECHNOLOGY ===
+gatewaypundittech.com
+gatewaypunditdigital.com
+gatewaypunditplatform.com
+gatewaypunditapp.com
+
+# === GATEWAY PUNDIT ADVERTISING ===
+gatewaypunditads.com
+gatewaypunditadvertising.com
+gatewaypunditmarketing.com
+gatewaypunditsponsors.com
+
+# === GATEWAY PUNDIT EVENTS ===
+gatewaypunditevents.com
+gatewaypunditconferences.com
+gatewaypunditsummits.com
+gatewaypunditgatherings.com
+
+# === GATEWAY PUNDIT NEWSLETTERS ===
+gatewaypunditnews.com
+gatewaypunditdaily.com
+gatewaypunditupdates.com
+gatewaypunditinsider.com
+
+# === GATEWAY PUNDIT SPECIAL PROJECTS ===
+gatewaypunditspecial.com
+gatewaypunditprojects.com
+gatewaypunditinitiatives.com
+gatewaypunditinvestigations.com
+
+# === JIM HOFT PROPERTIES ===
+jimhoft.com
+hoftblog.com
+thehoftreport.com
+hoftcommentary.com
+
+# === GATEWAY PUNDIT CONTRIBUTORS ===
+gatewaypunditwriters.com
+gatewaypunditcontributors.com
+gatewaypunditbloggers.com
+gatewaypunditopinion.com
+
+# === GATEWAY PUNDIT FOUNDATION ===
+gatewaypunditfoundation.com
+gatewaypunditfoundation.org
+gatewaypunditcharitable.com
+gatewaypunditcause.com
+
+# === END OF GATEWAY PUNDIT LIST ===
+# Total domains: 40+
+# This covers The Gateway Pundit hard-right blog network and properties

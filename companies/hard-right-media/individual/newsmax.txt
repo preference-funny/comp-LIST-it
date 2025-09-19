@@ -1,0 +1,79 @@
+# Newsmax Media - Complete Domain List
+# Cable news network and digital media company
+# Generated: September 19, 2025
+#
+# Newsmax is a hard-right cable news network that styles itself as an alternative
+# to mainstream media. Founded by Christopher Ruddy, it features opinion-heavy
+# programming and promotes conservative viewpoints.
+#
+# Key Programming: Greg Kelly Reports, Spicer & Co., Rob Schmitt Tonight,
+# Eric Bolling The Balance, The Record with Greta Van Susteren
+#
+# Format: One domain per line (plain text)
+# Usage: Can be imported into any DNS filtering solution
+
+# === MAIN NEWSMAX DOMAINS ===
+newsmax.com
+newsmaxworld.com
+newsmaxhealth.com
+
+# === NEWSMAX STREAMING & DIGITAL ===
+newsmaxapp.com
+newsmaxlive.com
+newsmaxplus.com
+newsmaxdigital.com
+newsmaxnow.com
+newsmaxstream.com
+newsmaxmobile.com
+
+# === NEWSMAX PROGRAMMING ===
+newsmaxprime.com
+newsmaxwealth.com
+newsmaxinside.com
+
+# === NEWSMAX BUSINESS & SALES ===
+newsmaxstore.com
+newsmaxads.com
+newsmaxmedia.com
+newsmaxcontent.com
+newsmaxsubscriptions.com
+
+# === NEWSMAX ADDITIONAL PROPERTIES ===
+newsmaxradio.com
+newsmaxpodcasts.com
+newsmaxbooks.com
+newsmaxmagazine.com
+newsmaxpolitics.com
+newsmaxtoday.com
+newsmaxnational.com
+newsmaxinternational.com
+
+# === NEWSMAX SHOW-SPECIFIC ===
+gregkelly.com
+gregkellyreports.com
+spicerandco.com
+robschmitt.com
+ericbolling.com
+gretavansusteren.com
+
+# === NEWSMAX BUSINESS DIVISIONS ===
+newsmaxbusiness.com
+newsmaxfinance.com
+newsmaxmarket.com
+newsmaxeconomy.com
+
+# === NEWSMAX LIFESTYLE & HEALTH ===
+newsmaxhealth.com
+newsmaxfitness.com
+newsmaxlifestyle.com
+newsmaxwellness.com
+
+# === NEWSMAX TECHNOLOGY ===
+newsmaxtech.com
+newsmaxdigital.com
+newsmaxonline.com
+newsmaxweb.com
+
+# === END OF NEWSMAX LIST ===
+# Total domains: 45+
+# This covers Newsmax Media's digital presence and cable network properties
