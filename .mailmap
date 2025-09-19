@@ -1,7 +1,0 @@
-# .mailmap file to ensure all contributions show as anonymous
-# This overrides GitHub's contributor detection
-
-ListBot Maintainer <listbot@comp-list-it.noreply.github.com>
-ListBot Maintainer <listbot@comp-list-it.noreply.github.com> Toby vanRoojen <toby@vanroojen.com>
-ListBot Maintainer <listbot@comp-list-it.noreply.github.com> tvanroo <*>
-ListBot Maintainer <listbot@comp-list-it.noreply.github.com> preference-funny <*>
