@@ -1,0 +1,14 @@
+! Title: Star Wars Block List
+! Description: Block list for Star Wars properties and related domains
+! Homepage: https://github.com/preference-funny/DIS-Block-List
+! License: GPL-3.0
+! Version: 1.0.0
+! Last Modified: September 19, 2025
+! Compatible with: Pi-hole, AdGuard, AdGuard Home, uBlock Origin, etc.
+!
+||starwars.com^
+||starwars.disney.com^
+||starwarskids.com^
+||lucasfilm.com^
+||ilm.com^
+||skywalker.com^

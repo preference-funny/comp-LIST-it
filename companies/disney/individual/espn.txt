@@ -1,0 +1,31 @@
+! Title: ESPN Block List
+! Description: Block list for ESPN, ESPN+, and related sports properties
+! Homepage: https://github.com/preference-funny/DIS-Block-List
+! License: GPL-3.0
+! Version: 1.0.0
+! Last Modified: September 19, 2025
+! Compatible with: Pi-hole, AdGuard, AdGuard Home, uBlock Origin, etc.
+!
+||espn.com^
+||espn.go.com^
+||espnplus.com^
+||espncdn.com^
+||espnradio.com^
+||espndeportes.com^
+||espncricinfo.com^
+||espnfc.com^
+||sec.espn.com^
+||a.espncdn.com^
+||a1.espncdn.com^
+||a2.espncdn.com^
+||a3.espncdn.com^
+||secure.espn.com^
+||plus.espn.com^
+||espn.sc.omtrdc.net^
+||espn.tt.omtrdc.net^
+||espn.demdex.net^
+||analytics.espn.com^
+||metrics.espn.com^
+||tracking.espn.com^
+||omniture.espn.com^
+||adobe.espn.com^

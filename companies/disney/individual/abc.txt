@@ -1,0 +1,28 @@
+! Title: ABC Network Block List
+! Description: Block list for ABC television network and related properties
+! Homepage: https://github.com/preference-funny/DIS-Block-List
+! License: GPL-3.0
+! Version: 1.0.0
+! Last Modified: September 19, 2025
+! Compatible with: Pi-hole, AdGuard, AdGuard Home, uBlock Origin, etc.
+!
+||abc.com^
+||abcnews.com^
+||abc.go.com^
+||abc-stars.com^
+||abcgo.com^
+||abctv.com^
+||abcnews.go.com^
+||gma.com^
+||goodmorningamerica.com^
+||nightline.com^
+||20-20.com^
+||abcfamily.com^
+||abcfamily.go.com^
+||abc.sc.omtrdc.net^
+||abc.tt.omtrdc.net^
+||abc.demdex.net^
+||analytics.abc.com^
+||metrics.abc.com^
+||tracking.abc.com^
+||omniture.abc.com^

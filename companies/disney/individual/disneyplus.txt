@@ -1,0 +1,23 @@
+! Title: Disney+ Block List
+! Description: Block list specifically for Disney+ streaming service and related analytics/tracking
+! Homepage: https://github.com/preference-funny/DIS-Block-List
+! License: GPL-3.0
+! Version: 1.0.0
+! Last Modified: September 19, 2025
+! Compatible with: Pi-hole, AdGuard, AdGuard Home, uBlock Origin, etc.
+!
+||disneyplus.com^
+||disneyplus.cn^
+||dplus-ph.net^
+||disneyplus.bn5x.net^
+||prod-ripcut-delivery.disney-plus.net^
+||disney-plus.net^
+||disneyplus-video.com^
+||disneyplus.com.ssl.sc.omtrdc.net^
+||registerdisney.go.com^
+||cdn.registerdisney.go.com^
+||disneystreaming.com^
+||bamgrid.com^
+||dssott.com^
+||disney.tt.omtrdc.net^
+||disney.demdex.net^

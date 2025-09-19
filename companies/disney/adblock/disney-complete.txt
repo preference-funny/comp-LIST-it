@@ -1,0 +1,289 @@
+! Title: Disney Complete Block List
+! Description: Comprehensive blocklist for Disney-owned properties and Disney-specific domains only
+! Homepage: https://github.com/preference-funny/DIS-Block-List
+! License: GPL-3.0
+! Version: 1.0.0
+! Last Modified: September 19, 2025
+! Entries: 100+ Disney-specific domains
+! Compatible with: Pi-hole, AdGuard, AdGuard Home, uBlock Origin, etc.
+! NOTE: Only includes Disney-owned domains, not generic third-party services
+!
+! ===========================
+! MAIN DISNEY PROPERTIES
+! ===========================
+
+||disney.com^
+||go.com^
+||disney.co.uk^
+||disney.de^
+||disney.fr^
+||disney.it^
+||disney.es^
+||disney.com.au^
+||disney.jp^
+||disney.cn^
+||disneyplus.com^
+||disneyplus.cn^
+||disneystreaming.com^
+||disneyconnect.com^
+
+! Disney Analytics & Tracking (Disney-specific only)
+||analytics.disney.com^
+||cdn.registerdisney.go.com^
+||registerdisney.go.com^
+||tracking.disney.com^
+||metrics.disney.com^
+||telemetry.disney.com^
+||adobedc.disney.com^
+||omniture.disney.com^
+||analytics.go.com^
+||metrics.go.com^
+||tracking.go.com^
+||disney.demdex.net^
+||disney.tt.omtrdc.net^
+||disney.my.sentry.io^
+||bugsnag.disney.com^
+||dssott.com^
+||bamgrid.com^
+
+! Disney Shopping & Commerce
+||shopdisney.com^
+||disneystore.com^
+||disneyshopping.com^
+||shopdisneyparks.com^
+||merchandise.disney.com^
+
+! Disney Parks & Resorts
+||disneyparks.com^
+||disneyland.com^
+||disneyworld.com^
+||disneyland.disney.go.com^
+||disneylandparis.com^
+||hongkongdisneyland.com^
+||tokyodisneyresort.jp^
+||shanghaidisneyresort.com^
+||disneyresorts.com^
+||disneyvacationclub.com^
+||disneycruise.com^
+||disneycruiseline.com^
+||adventuresbydisney.com^
+||aulani.com^
+
+! Disney Mobile Apps & Games
+||disneynow.com^
+||playdisney.com^
+||disneymobile.com^
+||disney-games.com^
+||disneymagickingdoms.com^
+
+! ===========================
+! STREAMING SERVICES
+! ===========================
+
+! Disney+
+||dplus-ph.net^
+||disneyplus.bn5x.net^
+||prod-ripcut-delivery.disney-plus.net^
+||disney-plus.net^
+||disneyplus-video.com^
+||disneyplus.com.ssl.sc.omtrdc.net^
+||registerdisney.go.com^
+||disney.tt.omtrdc.net^
+
+! Hulu
+||hulu.com^
+||hulustream.com^
+||huluim.com^
+||hulu.tv^
+||hulu-b2s.bamgrid.com^
+||assetshuluimcom-a.akamaihd.net^
+||hulu.hb.omtrdc.net^
+||hulu.sc.omtrdc.net^
+||prod.hulu.com^
+||secure.hulu.com^
+
+! ESPN & ESPN+
+||espn.com^
+||espn.go.com^
+||espnplus.com^
+||espncdn.com^
+||espnradio.com^
+||espndeportes.com^
+||espncricinfo.com^
+||espnfc.com^
+||sec.espn.com^
+||a.espncdn.com^
+||a1.espncdn.com^
+||a2.espncdn.com^
+||a3.espncdn.com^
+||secure.espn.com^
+||plus.espn.com^
+
+! ESPN Analytics & Tracking
+||espn.sc.omtrdc.net^
+||espn.tt.omtrdc.net^
+||espn.demdex.net^
+||analytics.espn.com^
+||metrics.espn.com^
+||tracking.espn.com^
+||omniture.espn.com^
+||adobe.espn.com^
+
+! FX Networks
+||fxnetworks.com^
+||fxnow.com^
+||fxnetworkshop.com^
+||fxm.com^
+||fxx.com^
+||fx-prod.web.cdn.bamgrid.com^
+
+! ===========================
+! TELEVISION NETWORKS
+! ===========================
+
+! ABC Network
+||abc.com^
+||abcnews.com^
+||abc.go.com^
+||abc-stars.com^
+||abcgo.com^
+||abctv.com^
+||abcnews.go.com^
+||gma.com^
+||goodmorningamerica.com^
+||nightline.com^
+||20-20.com^
+||abcfamily.com^
+||abcfamily.go.com^
+
+! ABC Analytics & Tracking
+||abc.sc.omtrdc.net^
+||abc.tt.omtrdc.net^
+||abc.demdex.net^
+||analytics.abc.com^
+||metrics.abc.com^
+||tracking.abc.com^
+||omniture.abc.com^
+
+! Disney Channel
+||disneychannel.com^
+||disneychannel.disney.com^
+||disneychanneloriginals.com^
+||disneychanneltv.com^
+||disneyjunior.com^
+||disneyxd.com^
+||watch.disneychannel.com^
+
+! National Geographic
+||nationalgeographic.com^
+||natgeo.com^
+||natgeotv.com^
+||nationalgeographic.org^
+||natgeowild.com^
+||natgeokids.com^
+||natgeotravel.com^
+
+! ===========================
+! STUDIOS & ENTERTAINMENT
+! ===========================
+
+! Walt Disney Studios
+||waltdisneystudios.com^
+||studios.disney.com^
+||disneypictures.com^
+||disneymovies.com^
+||touchstonepictures.com^
+||disneypictures.net^
+
+! Marvel
+||marvel.com^
+||marvelkids.com^
+||marvel.disney.com^
+||marvelhq.com^
+||marvelunlimited.com^
+||marvelmasterworks.com^
+
+! Star Wars
+||starwars.com^
+||starwars.disney.com^
+||starwarskids.com^
+||lucasfilm.com^
+||ilm.com^
+||skywalker.com^
+
+! Pixar
+||pixar.com^
+||pixarstudios.com^
+||pixar.disney.com^
+
+! 20th Century Studios
+||20thcenturystudios.com^
+||foxmovies.com^
+||searchlightpictures.com^
+
+! ===========================
+! RADIO & MUSIC
+! ===========================
+
+! Disney Music
+||disneymusic.com^
+||disneymusicgroup.com^
+||disneyrecords.com^
+||music.disney.com^
+||disneysoundtrack.com^
+
+! Radio Disney
+||radiodisney.com^
+||radio.disney.com^
+||radiodisney.disney.com^
+
+! Hollywood Records
+||hollywoodrecords.com^
+||hollywoodrecords.go.com^
+
+! ===========================
+! INTERNATIONAL
+! ===========================
+
+||disneyinternational.com^
+||disney.co.uk^
+||disney.de^
+||disney.fr^
+||disney.it^
+||disney.es^
+||disney.com.br^
+||disney.in^
+||disney.ca^
+||star.disney.com^
+||hotstar.com^
+||disneyhotstar.com^
+
+! ===========================
+! ADVERTISING & ANALYTICS
+! ===========================
+
+||disneyads.com^
+||disney-advertising.com^
+||disneyadvanced.tv^
+||disneyadtech.com^
+
+! ===========================
+! ADDITIONAL SERVICES
+! ===========================
+
+||disneyrewards.com^
+||disneymoviesrewards.com^
+||disneyvisa.com^
+||disney.education^
+||teachwithmagic.com^
+||disneyeducation.com^
+||thewaltdisneycompany.com^
+||disney.careers^
+||corporate.disney.com^
+||investors.disney.com^
+||babyeinstein.com^
+||baby-einstein.com^
+||disneybooks.com^
+||disneypublishing.com^
+||hyperionbooks.com^
+||disneypress.com^

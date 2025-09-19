@@ -1,0 +1,259 @@
+# Disney Complete Block List - Hosts Format
+# Comprehensive blocklist for Disney-owned properties (Disney-specific domains only)
+# Homepage: https://github.com/preference-funny/DIS-Block-List
+# License: GPL-3.0
+# Version: 1.0.0
+# Last Modified: September 19, 2025
+# Entries: 100+ Disney-specific domains
+# Compatible with: AdAway, uMatrix, DNS66, NetGuard, hosts file
+#
+# Usage: Add these entries to your hosts file (/etc/hosts on Linux/Mac, C:\Windows\System32\drivers\etc\hosts on Windows)
+# Or use with applications that support hosts file format
+# NOTE: Only includes Disney-owned domains, not generic third-party services
+
+# Main Disney Properties
+0.0.0.0 disney.com
+0.0.0.0 go.com
+0.0.0.0 disney.co.uk
+0.0.0.0 disney.de
+0.0.0.0 disney.fr
+0.0.0.0 disney.it
+0.0.0.0 disney.es
+0.0.0.0 disney.com.au
+0.0.0.0 disney.jp
+0.0.0.0 disney.cn
+0.0.0.0 disneyplus.com
+0.0.0.0 disneyplus.cn
+0.0.0.0 disneystreaming.com
+0.0.0.0 disneyconnect.com
+
+# Disney Analytics & Tracking (Disney-specific only)
+0.0.0.0 analytics.disney.com
+0.0.0.0 cdn.registerdisney.go.com
+0.0.0.0 registerdisney.go.com
+0.0.0.0 tracking.disney.com
+0.0.0.0 metrics.disney.com
+0.0.0.0 telemetry.disney.com
+0.0.0.0 adobedc.disney.com
+0.0.0.0 omniture.disney.com
+0.0.0.0 analytics.go.com
+0.0.0.0 metrics.go.com
+0.0.0.0 tracking.go.com
+0.0.0.0 disney.demdex.net
+0.0.0.0 disney.tt.omtrdc.net
+0.0.0.0 disney.my.sentry.io
+0.0.0.0 bugsnag.disney.com
+0.0.0.0 dssott.com
+0.0.0.0 bamgrid.com
+
+# Disney Shopping & Commerce
+0.0.0.0 shopdisney.com
+0.0.0.0 disneystore.com
+0.0.0.0 disneyshopping.com
+0.0.0.0 shopdisneyparks.com
+0.0.0.0 merchandise.disney.com
+
+# Disney Parks & Resorts
+0.0.0.0 disneyparks.com
+0.0.0.0 disneyland.com
+0.0.0.0 disneyworld.com
+0.0.0.0 disneyland.disney.go.com
+0.0.0.0 disneylandparis.com
+0.0.0.0 hongkongdisneyland.com
+0.0.0.0 tokyodisneyresort.jp
+0.0.0.0 shanghaidisneyresort.com
+0.0.0.0 disneyresorts.com
+0.0.0.0 disneyvacationclub.com
+0.0.0.0 disneycruise.com
+0.0.0.0 disneycruiseline.com
+0.0.0.0 adventuresbydisney.com
+0.0.0.0 aulani.com
+
+# Disney Mobile Apps & Games
+0.0.0.0 disneynow.com
+0.0.0.0 playdisney.com
+0.0.0.0 disneymobile.com
+0.0.0.0 disney-games.com
+0.0.0.0 disneymagickingdoms.com
+
+# Streaming Services - Disney+
+0.0.0.0 dplus-ph.net
+0.0.0.0 disneyplus.bn5x.net
+0.0.0.0 prod-ripcut-delivery.disney-plus.net
+0.0.0.0 disney-plus.net
+0.0.0.0 disneyplus-video.com
+0.0.0.0 disneyplus.com.ssl.sc.omtrdc.net
+0.0.0.0 registerdisney.go.com
+0.0.0.0 disney.tt.omtrdc.net
+
+# Hulu
+0.0.0.0 hulu.com
+0.0.0.0 hulustream.com
+0.0.0.0 huluim.com
+0.0.0.0 hulu.tv
+0.0.0.0 hulu-b2s.bamgrid.com
+0.0.0.0 assetshuluimcom-a.akamaihd.net
+0.0.0.0 hulu.hb.omtrdc.net
+0.0.0.0 hulu.sc.omtrdc.net
+0.0.0.0 prod.hulu.com
+0.0.0.0 secure.hulu.com
+
+# ESPN & ESPN+
+0.0.0.0 espn.com
+0.0.0.0 espn.go.com
+0.0.0.0 espnplus.com
+0.0.0.0 espncdn.com
+0.0.0.0 espnradio.com
+0.0.0.0 espndeportes.com
+0.0.0.0 espncricinfo.com
+0.0.0.0 espnfc.com
+0.0.0.0 sec.espn.com
+0.0.0.0 a.espncdn.com
+0.0.0.0 a1.espncdn.com
+0.0.0.0 a2.espncdn.com
+0.0.0.0 a3.espncdn.com
+0.0.0.0 secure.espn.com
+0.0.0.0 plus.espn.com
+
+# ESPN Analytics & Tracking
+0.0.0.0 espn.sc.omtrdc.net
+0.0.0.0 espn.tt.omtrdc.net
+0.0.0.0 espn.demdex.net
+0.0.0.0 analytics.espn.com
+0.0.0.0 metrics.espn.com
+0.0.0.0 tracking.espn.com
+0.0.0.0 omniture.espn.com
+0.0.0.0 adobe.espn.com
+
+# FX Networks
+0.0.0.0 fxnetworks.com
+0.0.0.0 fxnow.com
+0.0.0.0 fxnetworkshop.com
+0.0.0.0 fxm.com
+0.0.0.0 fxx.com
+0.0.0.0 fx-prod.web.cdn.bamgrid.com
+
+# ABC Network
+0.0.0.0 abc.com
+0.0.0.0 abcnews.com
+0.0.0.0 abc.go.com
+0.0.0.0 abc-stars.com
+0.0.0.0 abcgo.com
+0.0.0.0 abctv.com
+0.0.0.0 abcnews.go.com
+0.0.0.0 gma.com
+0.0.0.0 goodmorningamerica.com
+0.0.0.0 nightline.com
+0.0.0.0 20-20.com
+0.0.0.0 abcfamily.com
+0.0.0.0 abcfamily.go.com
+
+# ABC Analytics & Tracking
+0.0.0.0 abc.sc.omtrdc.net
+0.0.0.0 abc.tt.omtrdc.net
+0.0.0.0 abc.demdex.net
+0.0.0.0 analytics.abc.com
+0.0.0.0 metrics.abc.com
+0.0.0.0 tracking.abc.com
+0.0.0.0 omniture.abc.com
+
+# Disney Channel
+0.0.0.0 disneychannel.com
+0.0.0.0 disneychannel.disney.com
+0.0.0.0 disneychanneloriginals.com
+0.0.0.0 disneychanneltv.com
+0.0.0.0 disneyjunior.com
+0.0.0.0 disneyxd.com
+0.0.0.0 watch.disneychannel.com
+
+# National Geographic
+0.0.0.0 nationalgeographic.com
+0.0.0.0 natgeo.com
+0.0.0.0 natgeotv.com
+0.0.0.0 nationalgeographic.org
+0.0.0.0 natgeowild.com
+0.0.0.0 natgeokids.com
+0.0.0.0 natgeotravel.com
+
+# Walt Disney Studios
+0.0.0.0 waltdisneystudios.com
+0.0.0.0 studios.disney.com
+0.0.0.0 disneypictures.com
+0.0.0.0 disneymovies.com
+0.0.0.0 touchstonepictures.com
+0.0.0.0 disneypictures.net
+
+# Marvel
+0.0.0.0 marvel.com
+0.0.0.0 marvelkids.com
+0.0.0.0 marvel.disney.com
+0.0.0.0 marvelhq.com
+0.0.0.0 marvelunlimited.com
+0.0.0.0 marvelmasterworks.com
+
+# Star Wars
+0.0.0.0 starwars.com
+0.0.0.0 starwars.disney.com
+0.0.0.0 starwarskids.com
+0.0.0.0 lucasfilm.com
+0.0.0.0 ilm.com
+0.0.0.0 skywalker.com
+
+# Pixar
+0.0.0.0 pixar.com
+0.0.0.0 pixarstudios.com
+0.0.0.0 pixar.disney.com
+
+# 20th Century Studios
+0.0.0.0 20thcenturystudios.com
+0.0.0.0 foxmovies.com
+0.0.0.0 searchlightpictures.com
+
+# Disney Music
+0.0.0.0 disneymusic.com
+0.0.0.0 disneymusicgroup.com
+0.0.0.0 disneyrecords.com
+0.0.0.0 music.disney.com
+0.0.0.0 disneysoundtrack.com
+
+# Radio Disney
+0.0.0.0 radiodisney.com
+0.0.0.0 radio.disney.com
+0.0.0.0 radiodisney.disney.com
+
+# Hollywood Records
+0.0.0.0 hollywoodrecords.com
+0.0.0.0 hollywoodrecords.go.com
+
+# International Properties
+0.0.0.0 disneyinternational.com
+0.0.0.0 disney.com.br
+0.0.0.0 disney.in
+0.0.0.0 disney.ca
+0.0.0.0 star.disney.com
+0.0.0.0 hotstar.com
+0.0.0.0 disneyhotstar.com
+
+# Advertising & Analytics
+0.0.0.0 disneyads.com
+0.0.0.0 disney-advertising.com
+0.0.0.0 disneyadvanced.tv
+0.0.0.0 disneyadtech.com
+
+# Additional Services
+0.0.0.0 disneyrewards.com
+0.0.0.0 disneymoviesrewards.com
+0.0.0.0 disneyvisa.com
+0.0.0.0 disney.education
+0.0.0.0 teachwithmagic.com
+0.0.0.0 disneyeducation.com
+0.0.0.0 thewaltdisneycompany.com
+0.0.0.0 disney.careers
+0.0.0.0 corporate.disney.com
+0.0.0.0 investors.disney.com
+0.0.0.0 babyeinstein.com
+0.0.0.0 baby-einstein.com
+0.0.0.0 disneybooks.com
+0.0.0.0 disneypublishing.com
+0.0.0.0 hyperionbooks.com
+0.0.0.0 disneypress.com

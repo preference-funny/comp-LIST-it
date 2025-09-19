@@ -1,0 +1,64 @@
+! Title: Disney Analytics & Tracking Block List
+! Description: Comprehensive block list for Disney analytics, tracking, telemetry, and advertising domains
+! Homepage: https://github.com/preference-funny/DIS-Block-List
+! License: GPL-3.0
+! Version: 1.0.0
+! Last Modified: September 19, 2025
+! Compatible with: Pi-hole, AdGuard, AdGuard Home, uBlock Origin, etc.
+!
+! Disney Core Analytics
+||analytics.disney.com^
+||cdn.registerdisney.go.com^
+||tracking.disney.com^
+||metrics.disney.com^
+||telemetry.disney.com^
+||adobedc.disney.com^
+||omniture.disney.com^
+||analytics.go.com^
+||metrics.go.com^
+||tracking.go.com^
+||disney.demdex.net^
+||disney.my.sentry.io^
+||bugsnag.disney.com^
+||amplitude.disney.com^
+||disney.tt.omtrdc.net^
+
+! ESPN Analytics
+||espn.sc.omtrdc.net^
+||espn.tt.omtrdc.net^
+||espn.demdex.net^
+||analytics.espn.com^
+||metrics.espn.com^
+||tracking.espn.com^
+||omniture.espn.com^
+||adobe.espn.com^
+
+! ABC Analytics
+||abc.sc.omtrdc.net^
+||abc.tt.omtrdc.net^
+||abc.demdex.net^
+||analytics.abc.com^
+||metrics.abc.com^
+||tracking.abc.com^
+||omniture.abc.com^
+
+! Hulu Analytics
+||hulu.hb.omtrdc.net^
+||hulu.sc.omtrdc.net^
+
+! Disney+ Analytics
+||disneyplus.com.ssl.sc.omtrdc.net^
+||registerdisney.go.com^
+||dssott.com^
+||bamgrid.com^
+
+! Disney Advertising
+||disneyads.com^
+||disney-advertising.com^
+||disneyadvanced.tv^
+||disneyadtech.com^
+
+! Disney-specific CDN and Infrastructure
+||prod-ripcut-delivery.disney-plus.net^
+||disney.com.ssl.sc.omtrdc.net^
+||disneyplus.com.ssl.sc.omtrdc.net^
