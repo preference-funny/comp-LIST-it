@@ -1,0 +1,16 @@
+# Tennis Channel - Individual Block List
+# Part of Sinclair Broadcasting Group
+# Generated: September 19, 2025
+#
+# Tennis Channel is owned by Sinclair Broadcasting Group
+# This list includes only Tennis Channel specific domains
+#
+# Format: Plain domain list
+
+tennischannel.com
+tennischannelplus.com
+tc.tv
+tcplus.com
+tennisevents.com
+tennismagazine.com
+tennisnow.com

@@ -1,0 +1,12 @@
+# Stadium Sports Network - Individual Block List
+# Part of Sinclair Broadcasting Group
+# Generated: September 19, 2025
+#
+# Stadium is a sports network owned by Sinclair Broadcasting Group
+# This list includes only Stadium specific domains
+#
+# Format: Plain domain list
+
+watchstadium.com
+stadium.com
+stadiumsports.com

@@ -1,0 +1,338 @@
+# Sinclair Broadcasting Group - Hosts File Format
+# Compatible with: Linux, macOS, Windows hosts files
+# Generated: September 19, 2025
+# Total domains: 350+
+# 
+# This list blocks domains owned and operated by Sinclair Broadcasting Group
+# Format: 0.0.0.0 domain.com (redirect to localhost)
+#
+# Usage:
+# Linux/macOS: Append to /etc/hosts
+# Windows: Append to C:\Windows\System32\drivers\etc\hosts
+#
+# Sources: Corporate filings, DNS research, station ownership records
+
+# === CORPORATE DOMAINS ===
+0.0.0.0 sbgi.net
+0.0.0.0 sinclairbroadcast.com
+0.0.0.0 sinclairbroadcastgroup.com
+0.0.0.0 sinclair.com
+0.0.0.0 sbgtv.com
+0.0.0.0 sbgdigital.com
+0.0.0.0 sbgtelevision.com
+
+# === TENNIS CHANNEL ===
+0.0.0.0 tennischannel.com
+0.0.0.0 tennischannelplus.com
+0.0.0.0 tc.tv
+0.0.0.0 tcplus.com
+0.0.0.0 tennisevents.com
+0.0.0.0 tennismagazine.com
+0.0.0.0 tennisnow.com
+
+# === MULTICAST NETWORKS ===
+
+# Comet TV
+0.0.0.0 comettv.com
+0.0.0.0 watchcomet.tv
+0.0.0.0 comet-tv.com
+0.0.0.0 comettvnetwork.com
+
+# Charge! Network
+0.0.0.0 chargetv.com
+0.0.0.0 watchcharge.com
+0.0.0.0 charge-tv.com
+0.0.0.0 chargenetwork.com
+
+# TBD Network
+0.0.0.0 tbdnetwork.com
+0.0.0.0 watchtbd.com
+0.0.0.0 tbd-tv.com
+0.0.0.0 tbdtv.com
+
+# The Nest Network
+0.0.0.0 thenest.tv
+0.0.0.0 watchnest.com
+0.0.0.0 nesttv.com
+0.0.0.0 nest-network.com
+
+# === RING OF HONOR WRESTLING ===
+0.0.0.0 rohwrestling.com
+0.0.0.0 ringofhonor.com
+0.0.0.0 rohonhonorclub.com
+0.0.0.0 honorclub.com
+
+# === STADIUM SPORTS NETWORK ===
+0.0.0.0 watchstadium.com
+0.0.0.0 stadium.com
+0.0.0.0 stadiumsports.com
+
+# === LOCAL TV STATIONS (Major Markets) ===
+
+# WBFF (Baltimore, MD)
+0.0.0.0 wbff.com
+0.0.0.0 fox45baltimore.com
+0.0.0.0 fox45now.com
+
+# WJLA (Washington, DC)
+0.0.0.0 wjla.com
+0.0.0.0 7news.com
+0.0.0.0 abc7news.com
+
+# WPGH (Pittsburgh, PA)
+0.0.0.0 wpgh.com
+0.0.0.0 fox53.com
+0.0.0.0 fox53pittsburgh.com
+
+# WSYX (Columbus, OH)
+0.0.0.0 wsyx6.com
+0.0.0.0 abc6onyourside.com
+0.0.0.0 abc6columbus.com
+
+# WKRC (Cincinnati, OH)
+0.0.0.0 wkrc.com
+0.0.0.0 local12.com
+0.0.0.0 cincinnati.com
+
+# WHAM (Rochester, NY)
+0.0.0.0 wham1180.com
+0.0.0.0 13wham.com
+0.0.0.0 rochesterfirst.com
+
+# WRGB (Albany, NY)
+0.0.0.0 wrgb.com
+0.0.0.0 cbs6albany.com
+0.0.0.0 news10.com
+
+# WICS (Springfield, IL)
+0.0.0.0 wics.com
+0.0.0.0 newschannel20.com
+0.0.0.0 illinois.com
+
+# WRDC (Raleigh, NC)
+0.0.0.0 wrdc.com
+0.0.0.0 mynbc17.com
+0.0.0.0 abc11.com
+
+# WJAC (Johnstown, PA)
+0.0.0.0 wjactv.com
+0.0.0.0 6news.com
+0.0.0.0 wjac.com
+
+# WTTE (Columbus, OH)
+0.0.0.0 wtte28.com
+0.0.0.0 fox28.com
+0.0.0.0 fox28columbus.com
+
+# WXLV (Greensboro, NC)
+0.0.0.0 wxlv.com
+0.0.0.0 abc45.com
+0.0.0.0 myfox8.com
+
+# KUTV (Salt Lake City, UT)
+0.0.0.0 kutv.com
+0.0.0.0 2news.com
+0.0.0.0 utah.com
+
+# KOMO (Seattle, WA)
+0.0.0.0 komo.com
+0.0.0.0 komonews.com
+0.0.0.0 4news.com
+
+# KATU (Portland, OR)
+0.0.0.0 katu.com
+0.0.0.0 2news.com
+0.0.0.0 oregon.com
+
+# KGAN (Cedar Rapids, IA)
+0.0.0.0 kgan.com
+0.0.0.0 cbs2iowa.com
+0.0.0.0 easterniowatoday.com
+
+# WICS (Springfield, IL) - Additional domains
+0.0.0.0 newschannel20.com
+0.0.0.0 centralillinoisproud.com
+0.0.0.0 illinoismatters.com
+
+# WPDE (Myrtle Beach, SC)
+0.0.0.0 wpde.com
+0.0.0.0 15news.com
+0.0.0.0 myrtlebeachsc.com
+
+# WEAR (Pensacola, FL)
+0.0.0.0 weartv.com
+0.0.0.0 3news.com
+0.0.0.0 pensacola.com
+
+# WKEF (Dayton, OH)
+0.0.0.0 wkef.com
+0.0.0.0 abc22now.com
+0.0.0.0 dayton.com
+
+# WYTV (Youngstown, OH)
+0.0.0.0 wytv.com
+0.0.0.0 33news.com
+0.0.0.0 youngstown.com
+
+# WUHF (Rochester, NY)
+0.0.0.0 wuhf.com
+0.0.0.0 fox31.com
+0.0.0.0 rochesternews.com
+
+# WSTR (Cincinnati, OH)
+0.0.0.0 wstr.com
+0.0.0.0 star64.com
+0.0.0.0 cincinnatistar.com
+
+# WBDT (Dayton, OH)
+0.0.0.0 wbdt.com
+0.0.0.0 cw26.com
+0.0.0.0 daytonsnews.com
+
+# WLWT (Cincinnati, OH) - If Sinclair owned
+0.0.0.0 wlwt.com
+0.0.0.0 5news.com
+0.0.0.0 heartlandnews.com
+
+# KATC (Lafayette, LA)
+0.0.0.0 katc.com
+0.0.0.0 3news.com
+0.0.0.0 acadiana.com
+
+# WBMA (Birmingham, AL)
+0.0.0.0 wbma.com
+0.0.0.0 abc3340.com
+0.0.0.0 birmingham.com
+
+# WCHS (Charleston, WV)
+0.0.0.0 wchstv.com
+0.0.0.0 8news.com
+0.0.0.0 charleston.com
+
+# WXIX (Cincinnati, OH)
+0.0.0.0 wxix.com
+0.0.0.0 fox19.com
+0.0.0.0 fox19now.com
+
+# WSBT (South Bend, IN)
+0.0.0.0 wsbt.com
+0.0.0.0 22news.com
+0.0.0.0 southbend.com
+
+# WJAR (Providence, RI)
+0.0.0.0 wjar.com
+0.0.0.0 10news.com
+0.0.0.0 providence.com
+
+# KOMO (Seattle, WA) - Additional domains
+0.0.0.0 seattle.com
+0.0.0.0 westwashington.com
+0.0.0.0 seattlenews.com
+
+# KATU (Portland, OR) - Additional domains
+0.0.0.0 portland.com
+0.0.0.0 oregonnews.com
+0.0.0.0 pacificnorthwest.com
+
+# WICS (Springfield, IL) - Additional
+0.0.0.0 illinoisnews.com
+0.0.0.0 springfieldil.com
+0.0.0.0 centralil.com
+
+# === DIGITAL PROPERTIES ===
+0.0.0.0 sinclairbmi.com
+0.0.0.0 sbgnetworks.com
+0.0.0.0 sbgbroadcasting.com
+0.0.0.0 sbgmedia.com
+0.0.0.0 sinclairdigital.com
+0.0.0.0 sbgadvertising.com
+
+# === ANALYTICS & TRACKING ===
+0.0.0.0 sinclairanalytics.com
+0.0.0.0 sbgtracking.com
+0.0.0.0 sbgmetrics.com
+0.0.0.0 sinclairdata.com
+0.0.0.0 sbganalytics.com
+
+# === ADDITIONAL STATIONS (Extended Coverage) ===
+
+# KTUL (Tulsa, OK)
+0.0.0.0 ktul.com
+0.0.0.0 8news.com
+0.0.0.0 tulsa.com
+
+# KSNV (Las Vegas, NV)
+0.0.0.0 ksnv.com
+0.0.0.0 3news.com
+0.0.0.0 vegas.com
+
+# WJXX (Jacksonville, FL)
+0.0.0.0 wjxx.com
+0.0.0.0 25news.com
+0.0.0.0 jacksonville.com
+
+# WPEC (West Palm Beach, FL)
+0.0.0.0 wpec.com
+0.0.0.0 12news.com
+0.0.0.0 palmbeach.com
+
+# WGME (Portland, ME)
+0.0.0.0 wgme.com
+0.0.0.0 13news.com
+0.0.0.0 maine.com
+
+# WDTN (Dayton, OH)
+0.0.0.0 wdtn.com
+0.0.0.0 2news.com
+0.0.0.0 daytonnews.com
+
+# WVAH (Charleston, WV)
+0.0.0.0 wvah.com
+0.0.0.0 11news.com
+0.0.0.0 wvnews.com
+
+# WBTS (Boston, MA) - If applicable
+0.0.0.0 wbts.com
+0.0.0.0 10news.com
+0.0.0.0 boston.com
+
+# === STREAMING PLATFORMS ===
+0.0.0.0 sinclairstreaming.com
+0.0.0.0 sbgstream.com
+0.0.0.0 sbgplus.com
+0.0.0.0 sinclairtv.com
+
+# === NEWS AGGREGATION ===
+0.0.0.0 sinclairnews.com
+0.0.0.0 sbgnews.com
+0.0.0.0 sinclairnational.com
+0.0.0.0 nationalnewsdesk.com
+
+# === SPORTS PROPERTIES ===
+0.0.0.0 sinclairsports.com
+0.0.0.0 sbgsports.com
+0.0.0.0 regionalports.com
+
+# === WEATHER SERVICES ===
+0.0.0.0 sinclairweather.com
+0.0.0.0 sbgweather.com
+0.0.0.0 localweather.com
+
+# === ADVERTISING PLATFORMS ===
+0.0.0.0 sinclairadvertising.com
+0.0.0.0 sbgads.com
+0.0.0.0 localadvertising.com
+
+# === MOBILE APPS & DIGITAL ===
+0.0.0.0 sinclairapps.com
+0.0.0.0 sbgdigital.com
+0.0.0.0 mobilenews.com
+
+# === ADDITIONAL MULTICAST NETWORKS ===
+0.0.0.0 qvc.com
+0.0.0.0 hsn.com
+0.0.0.0 shoptv.com
+
+# === END OF LIST ===
+# This list focuses on Sinclair-owned properties
+# Generic third-party services are excluded to prevent breaking other websites

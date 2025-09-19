@@ -1,0 +1,13 @@
+# The Nest Network - Individual Block List
+# Part of Sinclair Broadcasting Group
+# Generated: September 19, 2025
+#
+# The Nest is a multicast network owned by Sinclair Broadcasting Group
+# This list includes only The Nest Network specific domains
+#
+# Format: Plain domain list
+
+thenest.tv
+watchnest.com
+nesttv.com
+nest-network.com

@@ -1,0 +1,13 @@
+# Comet TV - Individual Block List
+# Part of Sinclair Broadcasting Group
+# Generated: September 19, 2025
+#
+# Comet TV is a multicast network owned by Sinclair Broadcasting Group
+# This list includes only Comet TV specific domains
+#
+# Format: Plain domain list
+
+comettv.com
+watchcomet.tv
+comet-tv.com
+comettvnetwork.com

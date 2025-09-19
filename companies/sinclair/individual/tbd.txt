@@ -1,0 +1,13 @@
+# TBD Network - Individual Block List
+# Part of Sinclair Broadcasting Group
+# Generated: September 19, 2025
+#
+# TBD is a multicast network owned by Sinclair Broadcasting Group
+# This list includes only TBD Network specific domains
+#
+# Format: Plain domain list
+
+tbdnetwork.com
+watchtbd.com
+tbd-tv.com
+tbdtv.com
