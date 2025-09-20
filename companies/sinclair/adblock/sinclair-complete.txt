@@ -57,12 +57,6 @@
 ||nesttv.com^
 ||nest-network.com^
 
-# === RING OF HONOR WRESTLING ===
-||rohwrestling.com^
-||ringofhonor.com^
-||rohonhonorclub.com^
-||honorclub.com^
-
 # === STADIUM SPORTS NETWORK ===
 ||watchstadium.com^
 ||stadium.com^

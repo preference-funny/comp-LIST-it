@@ -184,7 +184,6 @@ Comprehensive lists covering News Corp and Fox Corporation properties under Murd
 | **Charge!** | Multicast network | [companies/sinclair/individual/charge.txt](companies/sinclair/individual/charge.txt) |
 | **TBD Network** | Multicast network | [companies/sinclair/individual/tbd.txt](companies/sinclair/individual/tbd.txt) |
 | **The Nest** | Multicast network | [companies/sinclair/individual/nest.txt](companies/sinclair/individual/nest.txt) |
-| **Ring of Honor** | Wrestling promotion | [companies/sinclair/individual/ring-of-honor.txt](companies/sinclair/individual/ring-of-honor.txt) |
 | **Stadium** | Sports network | [companies/sinclair/individual/stadium.txt](companies/sinclair/individual/stadium.txt) |
 
 #### Nexstar Media Group Properties
@@ -274,7 +273,7 @@ systemctl restart dnsmasq
 - **Tennis Channel**: Sports network and streaming properties  
 - **Multicast Networks**: Comet, Charge!, TBD, and The Nest networks
 - **Local TV Stations**: 350+ local television station websites across the US
-- **Streaming & Digital**: Ring of Honor Wrestling, Stadium sports network
+- **Streaming & Digital**: Stadium sports network
 
 ### 🎯 Nexstar Media Group
 - **Corporate Properties**: Nexstar corporate domains and digital platforms

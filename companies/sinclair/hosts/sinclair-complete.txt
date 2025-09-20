@@ -56,12 +56,6 @@
 0.0.0.0 nesttv.com
 0.0.0.0 nest-network.com
 
-# === RING OF HONOR WRESTLING ===
-0.0.0.0 rohwrestling.com
-0.0.0.0 ringofhonor.com
-0.0.0.0 rohonhonorclub.com
-0.0.0.0 honorclub.com
-
 # === STADIUM SPORTS NETWORK ===
 0.0.0.0 watchstadium.com
 0.0.0.0 stadium.com
